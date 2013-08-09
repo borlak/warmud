@@ -16,15 +16,15 @@ The mud is not fully bug-free and in fact there are probably a couple crash bugs
 <br>
 War types:
 <ul>
-  <li>Pit War - everyone is thrown in a really small area to duke it out</li>
-  <li>Regular War - explore the mud and find powerful items to kill other players with</li>
-  <li>City War - Similar to Pit, but everyone is stuck in a city</li>
-  <li>All vs One War - Someone is 'it' and gets a huge buff.  If you kill 'it' you become 'it'!</li>
-  <li>Artifact War - A random player gets an incredibly powerful artifact</li>
-  <li>Team War - Players are assigned random teams.  The last team standing wins!</li>
-  <li>Capture Flag War - Same as Team but now there is a flag to capture.  Each team has a random starting base where the flag is located.</li>
-  <li>BORG War - Borgs are invading!  If one kills you, you are assimilated!</li>
-  <li>Fittest War - Honestly, I forget.</li>
+  <li>Regular - explore the mud and find powerful items to kill other players with</li>
+  <li>Pit - everyone is thrown in a really small area to duke it out</li>
+  <li>City - Similar to Pit, but everyone is stuck in a city</li>
+  <li>All vs One - Someone is 'it' and gets a huge buff.  If you kill 'it' you become 'it'!</li>
+  <li>Artifact - A random player gets an incredibly powerful artifact</li>
+  <li>Team - Players are assigned random teams.  The last team standing wins!</li>
+  <li>Capture the Flag - Same as Team but now there is a flag to capture.  Each team has a random starting base where the flag is located.</li>
+  <li>BORG - Borgs are invading!  If one kills you, you are assimilated!</li>
+  <li>Fittest - Honestly, I forget.</li>
   <li>Hot Skull - Like hot potato, only with death.  If you are holding on to the hot skull when it goes off, you explode!</li>
 </ul>
 
