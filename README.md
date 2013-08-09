@@ -6,7 +6,7 @@ A Mud focused on Player Killing
 A <a href="http://en.wikipedia.org/wiki/Merc_(MUD)">MERC</a> <a href="http://en.wikipedia.org/wiki/Player_killing#Player_killing">PK</a> <a href="http://en.wikipedia.org/wiki/MUD">MUD</a> named Warmud.
 <br>
 I created this mud with inspiration from PKmud.  It is based on random types of 'Wars' that players partake in.  
-There are pit wars, hot potato wars, regular PK fest, etc.  
+There are pit wars, hot potato wars, regular PK fest, etc.  And there are also war 'flags' that further change how a specific war type can play out.
 All the mobiles are easy to kill for their equipment, and once a player chooses a class he gets all of that class' 
 abilities.  The idea is to have all players on equal footing so the fights are fair -- but the smartest/most skilled 
 player wins!
