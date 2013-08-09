@@ -17,8 +17,8 @@ The mud is not fully bug-free and in fact there are probably a couple crash bugs
 <br>
 War types:
 <ul>
-  <li>Regular - explore the mud and find powerful items to kill other players with</li>
-  <li>Pit - everyone is thrown in a really small area to duke it out</li>
+  <li>Regular - Explore the mud and find powerful items to kill other players with</li>
+  <li>Pit - Everyone is thrown in a really small area to duke it out</li>
   <li>City - Similar to Pit, but everyone is stuck in a city</li>
   <li>All vs One - Someone is 'it' and gets a huge buff.  If you kill 'it' you become 'it'!</li>
   <li>Artifact - A random player gets an incredibly powerful artifact</li>
@@ -27,6 +27,7 @@ War types:
   <li>BORG - Borgs are invading!  If one kills you, you are assimilated!</li>
   <li>Fittest - Honestly, I forget.</li>
   <li>Hot Skull - Like hot potato, only with death.  If you are holding on to the hot skull when it goes off, you explode!</li>
+  <li>God - Everyone gets changed to the godling class, an extra powerful class with all the skills and spells.</li>
 </ul>
 
 War Flags:
@@ -39,6 +40,7 @@ War Flags:
   <li>Fountains - drinking from fountains gives you benefits, such as a small heal</li>
   <li>Hunters - hunters are randomly placed around the world.  when they see you, they hunt and kill you</li>
   <li>Wrath - if nobody is killed in a certain time period, someone is randomly slain</li>
+  <li>No Nuke - normally at the end of a war the world is reset (nuked), this flag avoids that happening</li>
 </ul>
 
 Other Features:
