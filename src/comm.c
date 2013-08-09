@@ -1109,10 +1109,11 @@ void nanny( DESCRIPTOR_DATA *d, char *argument )
 		    break;
 	    }
 	  
-            write_to_buffer(d,"\n\rDikumudcreatedbyhanshenrikstaerfeldtkatjan\n\ryboetomhadsenmichaelseifertsebastianhammer\n\r\n\r", 0 );
-	    write_to_buffer(d,"\n\r          Welcome to War Mud", 	0 );
-	    write_to_buffer(d,"\n\r               Merc v2.1",		0 );
-	    write_to_buffer(d,"\n\r             WarCode v1.22\n\r\n\r", 0 );
+        write_to_buffer(d,"\n\rDikumud created by Hans Henrik Staerfeldt, Katja Nyboe, Tom Madsen", 0);
+        write_to_buffer(d,"\n\r                   Michael Seifert, Sebastian Hammer\n\r\n\r", 0 );
+        write_to_buffer(d,"\n\r          Welcome to War Mud", 	0 );
+        write_to_buffer(d,"\n\r               Merc v2.1",		0 );
+        write_to_buffer(d,"\n\r             WarCode v1.22\n\r\n\r", 0 );
 
 	    write_to_buffer(d,"\n\rWhat is your name: ", 0 );
 

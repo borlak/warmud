@@ -1759,6 +1759,11 @@ DECLARE_SPELL_FUN(	spell_lightning_breath	);
 #define NULL_FILE	"/dev/null"	/* To reserve one stream	*/
 #endif
 
+#if defined __APPLE__
+#define PLAYER_DIR	"../player/"	/* Player files			*/
+#define NULL_FILE	"/dev/null"	/* To reserve one stream	*/
+#endif
+
 #if defined WIN32
 #define PLAYER_DIR	"../player/"
 #define NULL_FILE	"../null_file_do_not_touch"
