@@ -47,6 +47,7 @@ Other Features:
 <ul>
   <li>Online customizable classes - no need to code a new class (still have to code skills/spells)</li>
   <li>Online editable socials (emotes)</li>
+  <li>Battle Log - players out of the war may watch a summary of battles as they go on</li>
 </ul>
 
 <hr>
