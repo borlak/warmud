@@ -1,0 +1,248 @@
+#AREA	{ 0 00} Borlak - Std Equip Area~
+
+
+#OBJECTS
+#30300
+staff old~
+an old staff~
+An old mage's staff is on the ground here.~
+~
+5 0 1|8192
+0 4 3 7 
+2 0 0
+#30301
+cloak~
+an old cloak~
+An old mage's cloak is on the ground here.~
+~
+9 0 1|4
+5 0 0 0 
+5 0 0
+#30302
+hat stars pointed~
+a pointed hat with stars~
+A pointed hat with stars is on the ground here.~
+~
+9 0 1|16
+2 0 0 0 
+1 0 0
+#30303
+boots high~
+some high boots~
+Some high boots are on the ground here.~
+~
+9 0 1|64
+2 0 0 0 
+1 0 0
+#30304
+hammer war warhammer~
+a warhammer~
+A warhammer is on the ground here.~
+~
+5 0 1|8192
+0 4 3 7 
+4 0 0
+#30305
+symbol holy~
+a holy symbol~
+A holy symbol is on the ground here.~
+~
+1 1 1|16384
+0 0 -1 0 
+1 0 0
+#30306
+robes robe~
+some long robes~
+Some long robes are on the ground here.~
+~
+9 0 1|1024
+8 0 0 0 
+5 0 0
+#30307
+gloves glove white~
+some white gloves~
+Some white gloves are on the ground here.~
+~
+9 0 1|128
+3 0 0 0 
+1 0 0
+#30308
+cloth vest white vestment~
+a white-cloth vestment~
+A white vestment is on the ground here.~
+~
+9 0 1|8
+10 0 0 0 
+5 0 0
+#30309
+dagger~
+a thin dagger~
+A thin dagger is on the ground here.~
+~
+5 0 1|8192
+0 4 3 11 
+1 0 0
+#30310
+hood dark~
+a dark hood~
+A dark hood is resting on the ground here.~
+~
+9 0 1|16
+4 0 0 0 
+1 0 0
+#30311
+cloak black~
+a black cloak~
+A black cloak is on the ground here.~
+~
+9 0 1|1024
+12 0 0 0 
+5 0 0
+#30312
+boots black~
+some black boots~
+Some black boots are on the ground here.~
+~
+9 0 1|64
+5 0 0 0 
+2 0 0
+#30313
+gloves black~
+some black gloves~
+Some black gloves are on the ground here.~
+~
+9 0 1|128
+5 0 0 0 
+2 0 0
+#30314
+vest leather~
+a leather vest~
+A leather vest is on the ground here.~
+~
+9 0 1|8
+10 0 0 0 
+5 0 0
+#30315
+pants leather~
+some leather pants~
+Some leather pants are on the ground here.~
+~
+9 0 1|32
+8 0 0 0 
+4 0 0
+#30316
+sword long longsword~
+a longsword~
+A longsword is on the ground here.~
+~
+5 0 1|8192
+0 4 3 3 
+2 0 0
+#30317
+helm chain chainmail mail~
+a chainmail helm~
+A chainmail helm is on the ground here.~
+~
+9 0 1|16
+7 0 0 0 
+5 0 0
+#30318
+vest chain chainmail mail~
+a chainmail vest~
+A chainmail vest is on the ground here.~
+~
+9 0 1|8
+15 0 0 0 
+7 0 0
+#30319
+leggings chain chainmail mail~
+some chainmail leggings~
+Some chainmail leggings are on the ground here.~
+~
+9 0 1|32
+7 0 0 0 
+5 0 0
+#30320
+gloves chain chainmail mail~
+some chainmail gloves~
+Some chainmail gloves are on the ground here.~
+~
+9 0 1|128
+5 0 0 0 
+3 0 0
+A
+19 1
+#30321
+vambraces chainmail chain mail~
+some chainmail vambraces~
+Some chainmail vambraces are on the ground here.~
+~
+9 0 1|256
+7 0 0 0 
+5 0 0
+#30322
+boots chain chainmail mail~
+some chainmail boots~
+Some chainmail boots are on the ground here.~
+~
+9 0 1|64
+5 0 0 0 
+3 0 0
+#30323
+cloak~
+a flowing red cloak~
+A flowing red cloak is on the ground here.~
+~
+9 0 1|1024
+8 0 0 0 
+3 0 0
+#30324
+lantern~
+a lantern~
+A lantern is on the ground here.~
+~
+1 0 1|16384
+0 0 -1 0 
+1 0 0
+#30325
+canoe~
+a canoe~
+A canoe is on the ground here.~
+~
+22 0 1
+0 0 0 0 
+7 0 0
+#30326
+dagger assassin~
+an &+Lassassins&N dagger~
+A &+Lblack&N dagger is on the ground here.~
+~
+5 2 1|8192
+0 5 5 11 
+2 0 0
+A
+18 5
+#30327
+shield warrios~
+&+Wa warrior's shield&N~
+A bright shield is on the ground here.~
+~
+9 0 1|512
+10 0 0 0 
+5 0 0
+A
+5 2
+#30328
+sword warriors~
+&+Wa warrior's sword&N~
+A brilliant sword is on the ground here.~
+~
+5 1 1|8192
+0 6 5 3 
+4 0 0
+A
+19 4
+#0
+
+
+#$

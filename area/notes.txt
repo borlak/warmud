@@ -1,0 +1,173 @@
+Sender  Borlak~
+Date    Mon Oct  5 12:14:01 1998~
+To      all~
+Subject aggressives~
+Text
+no such thing anymore
+~
+
+Sender  Borlak~
+Date    Mon Oct  5 13:36:52 1998~
+To      all~
+Subject new stuph~
+Text
+classes may load with equip now, cview archer
+
+new spell.. finger of death, for necromancer
+
+some hidden spell changes
+~
+
+Sender  Sisconda~
+Date    Tue Oct  6 21:43:57 1998~
+To      all~
+Subject rangers/merc~
+Text
+what is the point of having rangers/mercenarys?
+Thieves have more hp, better bs percentage, sneak
+and why would any merc wanna use bash when they can
+bs/flee? I think these 2 classes need to be tweaked
+just a tad... like remade or something =) heheh
+Just my opinion... plus no one who plays here actually
+uses real warrior classes... except maybe knight might be
+kinda useful... ok, that's all for today =b
+~
+
+Sender  Sisconda~
+Date    Tue Oct  6 21:47:53 1998~
+To      all~
+Subject monks~
+Text
+do you think monks should get some form of good offensive
+spell to help them and a lil more hp? just a thought considering
+they have no spells/special skills.. how bout' a "pinch
+nerves" skill that makes it so the person drops their weapons
+and can't cast spells (or just the latter) for 2 rounds, sorta
+like a spell bash?
+~
+
+Sender  Sisconda~
+Date    Wed Oct  7 20:27:51 1998~
+To      all~
+Subject druids~
+Text
+it seems to me like the mud can't handle 2 druids at once in a war...
+twice when another druid and me were fighting and casting sunrays,
+the mud crashed...
+coincidence???
+~
+
+Sender  Sisconda~
+Date    Thu Oct  8 20:06:17 1998~
+To      all~
+Subject knights~
+Text
+you wear a horseman's lance on your head... I can't charge
+with this!!!
+~
+
+Sender  Borlak~
+Date    Sat Oct 10 11:54:26 1998~
+To      all~
+Subject two skills~
+Text
+reflect spell is in working. reflects most spell damage attacks
+
+quivering palm is in for monks.
+~
+
+Sender  Borlak~
+Date    Sun Oct 11 12:16:38 1998~
+To      all~
+Subject stabbers~
+Text
+i changed the way stabbers are determined by the game
+can backstab with short swords now, so can 
+theoretically backstab with slashing weapon (if someone
+set a shortsword to slashing)
+~
+
+Sender  Borlak~
+Date    Sun Oct 11 12:40:58 1998~
+To      all~
+Subject survey damage reporting~
+Text
+it has been improved for spells, you can see what type
+of damage spells do.. ie:
+[Borlak:777h 500m]vs[Dude:9682h 400m]: Borlak does 36 points of electric damage to Dude with lightning bolt.
+
+reflect spell wont reflect any "mystical" damage spells. like tornado :)
+~
+
+Sender  Sisconda~
+Date    Sun Oct 11 21:57:05 1998~
+To      all~
+Subject druids~
+Text
+isn't it interesting that if u ride a horse and u sunray
+someone, your mount dies when the sunray hits? =P
+same applies for tornado
+~
+
+Sender  Levias~
+Date    Mon Oct 12 22:47:42 1998~
+To      all~
+Subject new class~
+Text
+well since rip wont let people wiht kills of less than 50 post notes
+then you can have this class Borlak =)
+names sucks oh well think of a new one, Gemeter
+a person in control of the elements, he would have defensive skills such as
+protection from acid, fire, earth, lightening, and so on
+he would also have offensive skills such as earth quake, create firestorm, firebrush, entangle,
+i have many more ideas on the elemental class, if your interested. let me know
+you could even also make it depend on what terrin hes on depending on what he casts
+~
+
+Sender  Sisconda~
+Date    Thu Oct 15 19:34:12 1998~
+To      all~
+Subject borg war~
+Text
+when I tried joining, mud crashed
+~
+
+Sender  Sisconda~
+Date    Sun Oct 25 19:11:01 1998~
+To      all~
+Subject bugs~
+Text
+umm.. certain bugs make u stay a borg the next war, or
+keep 800 hp... umm.. barbarian w/ 800 hp... cringe
+~
+
+Sender  Sisconda~
+Date    Sun Oct 25 19:20:35 1998~
+To      all~
+Subject Re: Levias's class~
+Text
+I believe many places use the word Geomancer for this class
+If ne1 ever played Final Fantasy Tactics, u can get a pretty
+good idea for what this class does
+~
+
+Sender  Sisconda~
+Date    Sun Oct 25 20:36:53 1998~
+To      all~
+Subject loading~
+Text
+after random load and scattered eq, no one loads ne thing
+ne more
+~
+
+Sender  Sisconda~
+Date    Sun Oct 25 21:19:05 1998~
+To      all~
+Subject conjurers~
+Text
+i don't think this mud can handle too many elementals from
+1 conjurer
+also if too many druids on.. sunrays/tornados can crash mud
+too
+~
+

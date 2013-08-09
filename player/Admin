@@ -1,0 +1,49 @@
+#PLAYER
+Name         Admin~
+ShortDescr   ~
+LongDescr    ~
+Description  ~
+Sex          1
+Class        7
+Race         0
+Level        1000
+Trust        0
+Played       2838773
+Room         1200
+HpMana       309 300 100 100
+Gold         9230
+Exp          2223
+Act          16782472
+AffectedBy   0
+Position     7
+SavingThrow  0
+Alignment    -306
+Hitroll      5
+Damroll      2
+Armor        100
+Wimpy        0
+Deaf         0
+Password     ~
+Bamfin       poofs in~
+Bamfout      poofs out~
+Title         wtf?~
+Whoname      ~
+AttrMod      -1 0 0 0 0
+Condition    0 39 48
+WarsWonLost  0/1 x 0/0 x 0/0 x 0/0 x 0/0 x 0/0 x 0/0 x 0/5 x 0/0 x 0/0   X
+LastWar      907555597
+Random       0
+Timer        0
+Doomsdays    0
+Kills        37
+Deaths       18
+MobDeaths    0
+HotSkulls    17
+BorgKills    7
+ItKills      1
+DamReceived  5118
+DamInflicted 12110
+Surveying    1
+End
+
+#END

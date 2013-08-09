@@ -1,0 +1,1567 @@
+30
+class	barbarian~
+short	bar~
+base	0
+enabled	1
+hp	400
+mana	0
+thacO	3
+str	19
+int	5
+wis	5
+dex	10
+con	19
+flags	72
+skills
+	name    'bash' 50
+	beats	24
+	mana	0
+
+	name    'enhanced damage' 20
+	beats	0
+	mana	0
+
+	name    'kick' 85
+	beats	24
+	mana	0
+
+	name    'second attack' 60
+	beats	0
+	mana	0
+
+	name    'third attack' 30
+	beats	0
+	mana	0
+
+endskills
+
+
+class	thief~
+short	thi~
+base	2
+enabled	1
+hp	250
+mana	0
+thacO	4
+str	15
+int	14
+wis	12
+dex	17
+con	15
+flags	0
+skills
+	name    'backstab' 90
+	beats	24
+	mana	0
+
+	name    'disarm' 30
+	beats	12
+	mana	0
+
+	name    'dodge' 80
+	beats	0
+	mana	0
+
+	name    'enhanced damage' 10
+	beats	0
+	mana	0
+
+	name    'hide' 90
+	beats	12
+	mana	0
+
+	name    'peek' 95
+	beats	0
+	mana	0
+
+	name    'pick lock' 90
+	beats	12
+	mana	0
+
+	name    'second attack' 50
+	beats	0
+	mana	0
+
+	name    'sneak' 90
+	beats	12
+	mana	0
+
+	name    'steal' 85
+	beats	12
+	mana	0
+
+endskills
+
+
+class	warrior~
+short	war~
+base	0
+enabled	1
+hp	400
+mana	0
+thacO	0
+str	18
+int	12
+wis	12
+dex	14
+con	18
+flags	0
+skills
+	name    'bash' 55
+	beats	24
+	mana	0
+
+	name    'disarm' 70
+	beats	24
+	mana	0
+
+	name    'kick' 90
+	beats	24
+	mana	0
+
+	name    'parry' 50
+	beats	0
+	mana	0
+
+	name    'rescue' 85
+	beats	24
+	mana	0
+
+	name    'second attack' 80
+	beats	0
+	mana	0
+
+endskills
+
+
+class	cleric~
+short	cle~
+base	3
+enabled	1
+hp	200
+mana	200
+thacO	2
+str	15
+int	12
+wis	18
+dex	14
+con	14
+flags	0
+skills
+	name    'armor' 90
+	beats	12
+	mana	15
+
+	name    'bless' 90
+	beats	12
+	mana	15
+
+	name    'continual light' 90
+	beats	12
+	mana	15
+
+	name    'control weather' 90
+	beats	12
+	mana	25
+
+	name    'create food' 95
+	beats	12
+	mana	25
+
+	name    'create water' 90
+	beats	12
+	mana	40
+
+	name    'cure blindness' 90
+	beats	12
+	mana	15
+
+	name    'cure critical' 95
+	beats	12
+	mana	25
+
+	name    'cure light' 95
+	beats	12
+	mana	15
+
+	name    'cure poison' 90
+	beats	12
+	mana	15
+
+	name    'cure serious' 95
+	beats	12
+	mana	20
+
+	name    'detect hidden' 90
+	beats	12
+	mana	15
+
+	name    'detect invis' 90
+	beats	12
+	mana	15
+
+	name    'dispel evil' 90
+	beats	12
+	mana	15
+
+	name    'earthquake' 95
+	beats	12
+	mana	20
+
+	name    'flamestrike' 90
+	beats	12
+	mana	15
+
+	name    'heal' 95
+	beats	12
+	mana	30
+
+	name    'summon' 85
+	beats	12
+	mana	45
+
+	name    'word of recall' 90
+	beats	12
+	mana	15
+
+endskills
+
+
+class	necromancer~
+short	nec~
+base	1
+enabled	1
+hp	100
+mana	300
+thacO	20
+str	10
+int	19
+wis	14
+dex	12
+con	8
+flags	16
+skills
+	name    'animate dead' 85
+	beats	36
+	mana	50
+
+	name    'blackmantle' 95
+	beats	12
+	mana	30
+
+	name    'burning hands' 95
+	beats	12
+	mana	10
+
+	name    'chill touch' 95
+	beats	12
+	mana	15
+
+	name    'cure light' 95
+	beats	12
+	mana	20
+
+	name    'detect evil' 95
+	beats	12
+	mana	20
+
+	name    'detect invis' 95
+	beats	12
+	mana	15
+
+	name    'detect poison' 95
+	beats	12
+	mana	15
+
+	name    'energy drain' 95
+	beats	12
+	mana	25
+
+	name    'faerie fire' 95
+	beats	12
+	mana	15
+
+	name    'feeblemind' 95
+	beats	24
+	mana	50
+
+	name    'finger of death' 75
+	beats	24
+	mana	75
+
+	name    'infravision' 95
+	beats	12
+	mana	10
+
+	name    'invis' 95
+	beats	12
+	mana	15
+
+	name    'magic missile' 95
+	beats	12
+	mana	20
+
+	name    'pass door' 95
+	beats	12
+	mana	25
+
+	name    'poison' 90
+	beats	12
+	mana	25
+
+	name    'ventriloquate' 95
+	beats	12
+	mana	10
+
+	name    'weaken' 95
+	beats	12
+	mana	15
+
+	name    'dodge' 20
+	beats	0
+	mana	0
+
+endskills
+
+
+class	assassin~
+short	ass~
+base	2
+enabled	1
+hp	150
+mana	0
+thacO	8
+str	15
+int	14
+wis	14
+dex	18
+con	12
+flags	128
+skills
+	name    'backstab' 95
+	beats	24
+	mana	0
+
+	name    'dodge' 80
+	beats	0
+	mana	0
+
+	name    'enhanced damage' 90
+	beats	0
+	mana	0
+
+	name    'hide' 90
+	beats	0
+	mana	0
+
+	name    'sneak' 90
+	beats	0
+	mana	0
+
+	name    'track' 90
+	beats	16
+	mana	0
+
+endskills
+
+
+class	mage~
+short	mag~
+base	1
+enabled	1
+hp	180
+mana	300
+thacO	15
+str	12
+int	18
+wis	15
+dex	14
+con	10
+flags	0
+skills
+	name    'alarm' 90
+	beats	12
+	mana	25
+
+	name    'blindness' 90
+	beats	12
+	mana	20
+
+	name    'burning hands' 95
+	beats	12
+	mana	14
+
+	name    'chill touch' 95
+	beats	12
+	mana	15
+
+	name    'colour spray' 95
+	beats	12
+	mana	24
+
+	name    'detect invis' 95
+	beats	12
+	mana	15
+
+	name    'dispel magic' 90
+	beats	12
+	mana	25
+
+	name    'enchant weapon' 90
+	beats	12
+	mana	20
+
+	name    'faerie fire' 95
+	beats	12
+	mana	15
+
+	name    'faerie fog' 90
+	beats	12
+	mana	20
+
+	name    'fireball' 95
+	beats	12
+	mana	15
+
+	name    'fireshield' 85
+	beats	24
+	mana	200
+
+	name    'fly' 95
+	beats	12
+	mana	15
+
+	name    'giant strength' 90
+	beats	12
+	mana	40
+
+	name    'identify' 90
+	beats	12
+	mana	50
+
+	name    'infravision' 95
+	beats	12
+	mana	30
+
+	name    'invis' 95
+	beats	12
+	mana	20
+
+	name    'lightning bolt' 95
+	beats	12
+	mana	15
+
+	name    'locate object' 95
+	beats	12
+	mana	60
+
+	name    'magic missile' 95
+	beats	12
+	mana	10
+
+	name    'mass invis' 85
+	beats	12
+	mana	20
+
+	name    'pass door' 90
+	beats	12
+	mana	25
+
+	name    'reflect' 85
+	beats	24
+	mana	75
+
+	name    'shield' 90
+	beats	12
+	mana	15
+
+	name    'shocking grasp' 90
+	beats	12
+	mana	15
+
+	name    'sleep' 85
+	beats	12
+	mana	30
+
+	name    'stone skin' 90
+	beats	12
+	mana	15
+
+	name    'teleport' 75
+	beats	36
+	mana	50
+
+	name    'ventriloquate' 80
+	beats	12
+	mana	20
+
+endskills
+
+
+class	paladin~
+short	pal~
+base	0
+enabled	1
+hp	300
+mana	100
+thacO	6
+str	16
+int	14
+wis	16
+dex	14
+con	16
+flags	0
+skills
+	name    'armor' 95
+	beats	12
+	mana	15
+
+	name    'bless' 95
+	beats	12
+	mana	15
+
+	name    'create food' 85
+	beats	12
+	mana	25
+
+	name    'detect invis' 95
+	beats	12
+	mana	15
+
+	name    'dispel evil' 95
+	beats	12
+	mana	0
+
+	name    'heal' 85
+	beats	16
+	mana	33
+
+	name    'remove curse' 85
+	beats	12
+	mana	20
+
+	name    'charge' 50
+	beats	24
+	mana	0
+
+	name    'kick' 95
+	beats	12
+	mana	0
+
+	name    'parry' 50
+	beats	0
+	mana	0
+
+	name    'rescue' 95
+	beats	24
+	mana	0
+
+	name    'ride' 85
+	beats	24
+	mana	0
+
+	name    'second attack' 50
+	beats	0
+	mana	0
+
+endskills
+
+
+class	conjurer~
+short	con~
+base	1
+enabled	1
+hp	120
+mana	300
+thacO	18
+str	14
+int	18
+wis	14
+dex	12
+con	10
+flags	0
+skills
+	name    'alarm' 90
+	beats	12
+	mana	25
+
+	name    'call lightning' 95
+	beats	12
+	mana	30
+
+	name    'colour spray' 95
+	beats	12
+	mana	25
+
+	name    'conjure elemental' 95
+	beats	12
+	mana	50
+
+	name    'control weather' 95
+	beats	12
+	mana	15
+
+	name    'detect invis' 95
+	beats	12
+	mana	15
+
+	name    'fireshield' 95
+	beats	24
+	mana	125
+
+	name    'invis' 95
+	beats	12
+	mana	15
+
+	name    'lightning bolt' 95
+	beats	12
+	mana	35
+
+	name    'locate object' 95
+	beats	24
+	mana	50
+
+	name    'pass door' 90
+	beats	12
+	mana	25
+
+	name    'wall of earth' 85
+	beats	24
+	mana	35
+
+	name    'wall of fire' 85
+	beats	24
+	mana	35
+
+	name    'weaken' 90
+	beats	12
+	mana	25
+
+endskills
+
+
+class	anti-paladin~
+short	ant~
+base	2
+enabled	1
+hp	300
+mana	100
+thacO	6
+str	17
+int	15
+wis	15
+dex	15
+con	15
+flags	0
+skills
+	name    'blindness' 88
+	beats	12
+	mana	25
+
+	name    'chill touch' 85
+	beats	12
+	mana	15
+
+	name    'curse' 85
+	beats	12
+	mana	20
+
+	name    'faerie fog' 85
+	beats	12
+	mana	15
+
+	name    'remove curse' 90
+	beats	12
+	mana	15
+
+	name    'backstab' 75
+	beats	12
+	mana	0
+
+	name    'dodge' 50
+	beats	0
+	mana	0
+
+	name    'pick lock' 10
+	beats	10
+	mana	0
+
+	name    'second attack' 50
+	beats	0
+	mana	0
+
+endskills
+
+
+class	transmuter~
+short	tra~
+base	1
+enabled	0
+hp	220
+mana	110
+thacO	20
+str	16
+int	17
+wis	16
+dex	19
+con	1
+flags	0
+skills
+endskills
+
+
+class	witch~
+short	wit~
+base	1
+enabled	0
+hp	200
+mana	180
+thacO	25
+str	12
+int	15
+wis	16
+dex	14
+con	1
+flags	0
+skills
+endskills
+
+
+class	knight~
+short	kni~
+base	0
+enabled	1
+hp	300
+mana	0
+thacO	3
+str	16
+int	14
+wis	14
+dex	14
+con	16
+flags	0
+object	19
+skills
+	name    'bash' 45
+	beats	24
+	mana	0
+
+	name    'charge' 90
+	beats	12
+	mana	0
+
+	name    'enhanced damage' 50
+	beats	0
+	mana	0
+
+	name    'rescue' 90
+	beats	12
+	mana	0
+
+	name    'ride' 95
+	beats	24
+	mana	0
+
+	name    'second attack' 35
+	beats	0
+	mana	0
+
+endskills
+
+
+class	druid~
+short	dru~
+base	3
+enabled	1
+hp	250
+mana	250
+thacO	11
+str	14
+int	15
+wis	19
+dex	15
+con	12
+flags	0
+skills
+	name    'armor' 90
+	beats	12
+	mana	15
+
+	name    'blindness' 90
+	beats	12
+	mana	25
+
+	name    'call lightning' 90
+	beats	12
+	mana	35
+
+	name    'create spring' 90
+	beats	12
+	mana	200
+
+	name    'detect hidden' 90
+	beats	12
+	mana	20
+
+	name    'detect invis' 90
+	beats	12
+	mana	20
+
+	name    'entangling vines' 90
+	beats	12
+	mana	55
+
+	name    'faerie fire' 90
+	beats	12
+	mana	15
+
+	name    'faerie fog' 90
+	beats	12
+	mana	15
+
+	name    'giant strength' 90
+	beats	12
+	mana	15
+
+	name    'heal' 85
+	beats	12
+	mana	35
+
+	name    'stone skin' 90
+	beats	12
+	mana	35
+
+	name    'sunray' 85
+	beats	24
+	mana	50
+
+	name    'tornado' 90
+	beats	24
+	mana	50
+
+	name    'ride' 70
+	beats	24
+	mana	0
+
+	name    'sneak' 90
+	beats	12
+	mana	0
+
+endskills
+
+
+class	mercenary~
+short	mer~
+base	0
+enabled	1
+hp	200
+mana	0
+thacO	7
+str	17
+int	12
+wis	12
+dex	16
+con	16
+flags	0
+skills
+	name    'backstab' 85
+	beats	24
+	mana	0
+
+	name    'bash' 50
+	beats	24
+	mana	0
+
+	name    'kick' 90
+	beats	24
+	mana	0
+
+	name    'pick lock' 75
+	beats	24
+	mana	0
+
+	name    'second attack' 50
+	beats	0
+	mana	0
+
+endskills
+
+
+class	ranger~
+short	ran~
+base	0
+enabled	1
+hp	225
+mana	100
+thacO	10
+str	16
+int	12
+wis	16
+dex	16
+con	14
+flags	0
+skills
+	name    'armor' 90
+	beats	12
+	mana	15
+
+	name    'bless' 90
+	beats	12
+	mana	15
+
+	name    'cure critical' 90
+	beats	12
+	mana	25
+
+	name    'reflect' 90
+	beats	24
+	mana	100
+
+	name    'archery' 50
+	beats	36
+	mana	0
+
+	name    'awareness' 50
+	beats	0
+	mana	0
+
+	name    'dodge' 50
+	beats	0
+	mana	0
+
+	name    'ride' 95
+	beats	24
+	mana	0
+
+	name    'second attack' 50
+	beats	0
+	mana	0
+
+	name    'sneak' 85
+	beats	12
+	mana	0
+
+	name    'track' 95
+	beats	24
+	mana	0
+
+endskills
+
+
+class	bard~
+short	brd~
+base	2
+enabled	1
+hp	300
+mana	100
+thacO	9
+str	14
+int	15
+wis	15
+dex	16
+con	14
+flags	0
+skills
+	name    'blindness' 85
+	beats	12
+	mana	25
+
+	name    'charm person' 95
+	beats	12
+	mana	50
+
+	name    'detect invis' 90
+	beats	12
+	mana	15
+
+	name    'feeblemind' 90
+	beats	12
+	mana	33
+
+	name    'fly' 90
+	beats	12
+	mana	15
+
+	name    'invis' 90
+	beats	12
+	mana	25
+
+	name    'lightning bolt' 90
+	beats	12
+	mana	30
+
+	name    'reflect' 90
+	beats	24
+	mana	100
+
+	name    'shield' 95
+	beats	12
+	mana	15
+
+	name    'stone skin' 90
+	beats	12
+	mana	25
+
+	name    'backstab' 50
+	beats	26
+	mana	0
+
+	name    'hide' 80
+	beats	0
+	mana	0
+
+	name    'peek' 85
+	beats	0
+	mana	0
+
+	name    'pick lock' 90
+	beats	12
+	mana	0
+
+	name    'sneak' 90
+	beats	0
+	mana	0
+
+	name    'steal' 85
+	beats	12
+	mana	0
+
+endskills
+
+
+class	ninja~
+short	nin~
+base	2
+enabled	1
+hp	175
+mana	150
+thacO	9
+str	16
+int	15
+wis	17
+dex	19
+con	16
+flags	256
+skills
+	name    'alarm' 90
+	beats	12
+	mana	30
+
+	name    'colour spray' 70
+	beats	14
+	mana	25
+
+	name    'detect invis' 90
+	beats	12
+	mana	15
+
+	name    'infravision' 75
+	beats	14
+	mana	50
+
+	name    'invis' 90
+	beats	12
+	mana	25
+
+	name    'archery' 45
+	beats	24
+	mana	0
+
+	name    'awareness' 25
+	beats	0
+	mana	0
+
+	name    'backstab' 90
+	beats	24
+	mana	0
+
+	name    'hide' 90
+	beats	24
+	mana	0
+
+	name    'second attack' 10
+	beats	14
+	mana	0
+
+	name    'sneak' 90
+	beats	24
+	mana	0
+
+endskills
+
+
+class	monk~
+short	mon~
+base	3
+enabled	1
+hp	250
+mana	0
+thacO	5
+str	16
+int	15
+wis	16
+dex	20
+con	16
+flags	292
+skills
+	name    'disarm' 50
+	beats	24
+	mana	0
+
+	name    'dodge' 80
+	beats	0
+	mana	0
+
+	name    'kick' 90
+	beats	24
+	mana	0
+
+	name    'quivering palm' 85
+	beats	24
+	mana	0
+
+	name    'second attack' 55
+	beats	0
+	mana	0
+
+	name    'sneak' 90
+	beats	24
+	mana	0
+
+	name    'third attack' 35
+	beats	0
+	mana	0
+
+endskills
+
+
+class	archer~
+short	arc~
+base	2
+enabled	1
+hp	150
+mana	0
+thacO	20
+str	14
+int	14
+wis	14
+dex	16
+con	15
+flags	0
+object	15
+object	14
+skills
+	name    'archery' 90
+	beats	24
+	mana	0
+
+	name    'parry' 25
+	beats	0
+	mana	0
+
+	name    'track' 90
+	beats	0
+	mana	0
+
+endskills
+
+
+class	enchanter~
+short	enc~
+base	1
+enabled	1
+hp	120
+mana	300
+thacO	15
+str	14
+int	18
+wis	14
+dex	14
+con	12
+flags	0
+skills
+	name    'blindness' 95
+	beats	12
+	mana	15
+
+	name    'charm person' 90
+	beats	12
+	mana	25
+
+	name    'curse' 90
+	beats	12
+	mana	15
+
+	name    'detect invis' 95
+	beats	12
+	mana	15
+
+	name    'dispel evil' 90
+	beats	12
+	mana	15
+
+	name    'dispel magic' 90
+	beats	12
+	mana	15
+
+	name    'energy drain' 90
+	beats	12
+	mana	15
+
+	name    'feeblemind' 90
+	beats	12
+	mana	50
+
+	name    'giant strength' 90
+	beats	12
+	mana	15
+
+	name    'invis' 95
+	beats	12
+	mana	15
+
+	name    'lightning bolt' 90
+	beats	12
+	mana	15
+
+	name    'reflect' 85
+	beats	24
+	mana	75
+
+endskills
+
+
+class	godling~
+short	god~
+base	4
+enabled	1
+hp	777
+mana	500
+thacO	0
+str	18
+int	25
+wis	25
+dex	18
+con	18
+flags	0
+skills
+	name    'animate dead' 100
+	beats	12
+	mana	50
+
+	name    'armor' 100
+	beats	12
+	mana	20
+
+	name    'blackmantle' 100
+	beats	12
+	mana	30
+
+	name    'bless' 100
+	beats	12
+	mana	15
+
+	name    'blindness' 100
+	beats	12
+	mana	30
+
+	name    'burning hands' 100
+	beats	12
+	mana	15
+
+	name    'call lightning' 100
+	beats	12
+	mana	40
+
+	name    'charm person' 100
+	beats	24
+	mana	100
+
+	name    'chill touch' 100
+	beats	12
+	mana	25
+
+	name    'colour spray' 100
+	beats	12
+	mana	25
+
+	name    'conjure elemental' 100
+	beats	12
+	mana	100
+
+	name    'continual light' 100
+	beats	12
+	mana	20
+
+	name    'control weather' 100
+	beats	12
+	mana	30
+
+	name    'cure blindness' 100
+	beats	12
+	mana	20
+
+	name    'cure critical' 100
+	beats	12
+	mana	40
+
+	name    'cure light' 100
+	beats	12
+	mana	15
+
+	name    'cure serious' 100
+	beats	12
+	mana	25
+
+	name    'curse' 100
+	beats	12
+	mana	25
+
+	name    'detect hidden' 100
+	beats	12
+	mana	50
+
+	name    'detect invis' 100
+	beats	12
+	mana	50
+
+	name    'earthquake' 100
+	beats	12
+	mana	40
+
+	name    'enchant weapon' 100
+	beats	12
+	mana	100
+
+	name    'energy drain' 100
+	beats	12
+	mana	50
+
+	name    'entangling vines' 90
+	beats	24
+	mana	50
+
+	name    'faerie fire' 100
+	beats	12
+	mana	15
+
+	name    'feeblemind' 100
+	beats	12
+	mana	75
+
+	name    'faerie fog' 100
+	beats	12
+	mana	25
+
+	name    'fireball' 100
+	beats	12
+	mana	25
+
+	name    'fireshield' 100
+	beats	12
+	mana	250
+
+	name    'flamestrike' 100
+	beats	12
+	mana	30
+
+	name    'fly' 100
+	beats	12
+	mana	15
+
+	name    'giant strength' 100
+	beats	12
+	mana	25
+
+	name    'heal' 100
+	beats	12
+	mana	100
+
+	name    'identify' 100
+	beats	12
+	mana	250
+
+	name    'infravision' 100
+	beats	12
+	mana	10
+
+	name    'invis' 100
+	beats	12
+	mana	50
+
+	name    'lightning bolt' 100
+	beats	12
+	mana	25
+
+	name    'locate object' 100
+	beats	12
+	mana	50
+
+	name    'magic missile' 100
+	beats	12
+	mana	10
+
+	name    'mass invis' 100
+	beats	12
+	mana	80
+
+	name    'pass door' 100
+	beats	12
+	mana	50
+
+	name    'poison' 100
+	beats	12
+	mana	40
+
+	name    'protection' 100
+	beats	12
+	mana	40
+
+	name    'reflect' 90
+	beats	24
+	mana	100
+
+	name    'remove curse' 100
+	beats	12
+	mana	25
+
+	name    'sanctuary' 100
+	beats	12
+	mana	200
+
+	name    'shield' 100
+	beats	12
+	mana	25
+
+	name    'shocking grasp' 100
+	beats	12
+	mana	25
+
+	name    'sleep' 100
+	beats	12
+	mana	35
+
+	name    'stone skin' 100
+	beats	12
+	mana	50
+
+	name    'summon' 100
+	beats	12
+	mana	100
+
+	name    'sunray' 90
+	beats	24
+	mana	45
+
+	name    'teleport' 100
+	beats	12
+	mana	100
+
+	name    'tornado' 90
+	beats	24
+	mana	55
+
+	name    'wall of earth' 100
+	beats	12
+	mana	35
+
+	name    'wall of fire' 100
+	beats	12
+	mana	35
+
+	name    'weaken' 100
+	beats	12
+	mana	35
+
+	name    'word of recall' 100
+	beats	12
+	mana	200
+
+	name    'archery' 90
+	beats	24
+	mana	0
+
+	name    'awareness' 50
+	beats	0
+	mana	0
+
+	name    'backstab' 90
+	beats	24
+	mana	0
+
+	name    'bash' 90
+	beats	24
+	mana	0
+
+	name    'charge' 90
+	beats	24
+	mana	0
+
+	name    'disarm' 75
+	beats	24
+	mana	0
+
+	name    'dodge' 20
+	beats	0
+	mana	0
+
+	name    'enhanced damage' 100
+	beats	0
+	mana	0
+
+	name    'hide' 90
+	beats	12
+	mana	0
+
+	name    'kick' 90
+	beats	24
+	mana	0
+
+	name    'parry' 20
+	beats	0
+	mana	0
+
+	name    'peek' 90
+	beats	0
+	mana	0
+
+	name    'pick lock' 90
+	beats	24
+	mana	0
+
+	name    'quivering palm' 90
+	beats	24
+	mana	0
+
+	name    'rescue' 90
+	beats	24
+	mana	0
+
+	name    'ride' 90
+	beats	24
+	mana	0
+
+	name    'second attack' 90
+	beats	0
+	mana	0
+
+	name    'sneak' 90
+	beats	12
+	mana	0
+
+	name    'steal' 90
+	beats	24
+	mana	0
+
+	name    'third attack' 90
+	beats	0
+	mana	0
+
+	name    'track' 90
+	beats	12
+	mana	0
+
+endskills
+
+
+endfile

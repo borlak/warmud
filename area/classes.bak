@@ -1,0 +1,524 @@
+30
+class	barbarian~
+short	bar~
+base	0
+enabled	1
+hp	600
+mana	0
+move	200
+thacO	0
+str	20
+int	9
+wis	10
+dex	14
+con	18
+flags	88
+skills
+	name    'disarm' 80
+	beats	80
+	mana	80
+
+	name    'dodge' 40
+	beats	40
+	mana	40
+
+	name    'second attack' 70
+	beats	70
+	mana	70
+
+	name    'third attack' 40
+	beats	40
+	mana	40
+
+endskills
+
+
+class	thief~
+short	thi~
+base	2
+enabled	1
+hp	250
+mana	0
+move	80
+thacO	10
+str	15
+int	14
+wis	12
+dex	17
+con	1
+flags	0
+skills
+endskills
+
+
+class	warrior~
+short	war~
+base	0
+enabled	1
+hp	1
+mana	1
+move	1
+thacO	20
+str	1
+int	1
+wis	1
+dex	1
+con	1
+flags	0
+skills
+endskills
+
+
+class	cleric~
+short	cle~
+base	3
+enabled	1
+hp	200
+mana	200
+move	200
+thacO	10
+str	13
+int	15
+wis	1
+dex	13
+con	10
+flags	0
+skills
+	name    'cure critical' 95
+	beats	95
+	mana	95
+
+	name    'cure light' 95
+	beats	95
+	mana	95
+
+	name    'cure serious' 95
+	beats	95
+	mana	95
+
+	name    'dispel evil' 90
+	beats	90
+	mana	90
+
+	name    'heal' 95
+	beats	95
+	mana	95
+
+endskills
+
+
+class	necromancer~
+short	nec~
+base	1
+enabled	1
+hp	100
+mana	500
+move	100
+thacO	20
+str	21
+int	5
+wis	15
+dex	14
+con	1
+flags	16
+skills
+	name    'acid blast' 75
+	beats	75
+	mana	75
+
+	name    'chill touch' 86
+	beats	86
+	mana	86
+
+	name    'detect invis' 95
+	beats	95
+	mana	95
+
+	name    'faerie fire' 80
+	beats	80
+	mana	80
+
+	name    'fly' 95
+	beats	95
+	mana	95
+
+	name    'infravision' 90
+	beats	90
+	mana	90
+
+	name    'invis' 95
+	beats	95
+	mana	95
+
+	name    'pass door' 90
+	beats	90
+	mana	90
+
+	name    'poison' 90
+	beats	90
+	mana	90
+
+	name    'ventriloquate' 90
+	beats	90
+	mana	90
+
+	name    'weaken' 95
+	beats	95
+	mana	95
+
+endskills
+
+
+class	assassin~
+short	ass~
+base	2
+enabled	1
+hp	135
+mana	0
+move	1
+thacO	20
+str	16
+int	14
+wis	15
+dex	16
+con	1
+flags	0
+skills
+	name    'continual light' 15
+	beats	15
+	mana	15
+
+endskills
+
+
+class	mage~
+short	mag~
+base	1
+enabled	1
+hp	180
+mana	350
+move	1
+thacO	15
+str	10
+int	18
+wis	18
+dex	14
+con	10
+flags	0
+skills
+	name    'lightning bolt' 90
+	beats	90
+	mana	90
+
+endskills
+
+
+class	paladin~
+short	pal~
+base	0
+enabled	1
+hp	350
+mana	120
+move	200
+thacO	20
+str	16
+int	17
+wis	15
+dex	15
+con	15
+flags	0
+skills
+	name    'armor' 90
+	beats	90
+	mana	90
+
+	name    'bless' 85
+	beats	85
+	mana	85
+
+	name    'continual light' 90
+	beats	90
+	mana	90
+
+	name    'create food' 90
+	beats	90
+	mana	90
+
+	name    'detect invis' 85
+	beats	85
+	mana	85
+
+	name    'dispel evil' 90
+	beats	90
+	mana	90
+
+	name    'heal' 90
+	beats	90
+	mana	90
+
+	name    'identify' 95
+	beats	95
+	mana	95
+
+	name    'remove curse' 85
+	beats	85
+	mana	85
+
+	name    'enhanced damage' 5
+	beats	5
+	mana	5
+
+	name    'kick' 80
+	beats	80
+	mana	80
+
+	name    'parry' 75
+	beats	75
+	mana	75
+
+	name    'rescue' 90
+	beats	90
+	mana	90
+
+	name    'second attack' 55
+	beats	55
+	mana	55
+
+endskills
+
+
+class	conjurer~
+short	con~
+base	1
+enabled	1
+hp	1
+mana	1
+move	1
+thacO	20
+str	1
+int	1
+wis	1
+dex	1
+con	1
+flags	0
+skills
+endskills
+
+
+class	anti-paladin~
+short	ant~
+base	2
+enabled	1
+hp	350
+mana	120
+move	200
+thacO	20
+str	17
+int	15
+wis	15
+dex	16
+con	16
+flags	0
+skills
+endskills
+
+
+class	transmuter~
+short	tra~
+base	1
+enabled	1
+hp	220
+mana	110
+move	100
+thacO	20
+str	16
+int	17
+wis	16
+dex	19
+con	1
+flags	0
+skills
+endskills
+
+
+class	witch~
+short	wit~
+base	1
+enabled	1
+hp	200
+mana	180
+move	130
+thacO	25
+str	12
+int	15
+wis	16
+dex	14
+con	1
+flags	0
+skills
+endskills
+
+
+class	knight~
+short	kni~
+base	0
+enabled	1
+hp	420
+mana	100
+move	160
+thacO	25
+str	17
+int	12
+wis	14
+dex	16
+con	17
+flags	0
+skills
+endskills
+
+
+class	druid~
+short	new~
+base	3
+enabled	1
+hp	1
+mana	1
+move	1
+thacO	20
+str	1
+int	1
+wis	1
+dex	1
+con	1
+flags	0
+skills
+endskills
+
+
+class	mercenary~
+short	mer~
+base	0
+enabled	1
+hp	1
+mana	1
+move	1
+thacO	20
+str	1
+int	1
+wis	1
+dex	1
+con	1
+flags	0
+skills
+endskills
+
+
+class	ranger~
+short	ran~
+base	0
+enabled	1
+hp	1
+mana	1
+move	1
+thacO	20
+str	1
+int	1
+wis	1
+dex	1
+con	1
+flags	0
+skills
+endskills
+
+
+class	bard~
+short	brd~
+base	2
+enabled	1
+hp	1
+mana	1
+move	1
+thacO	20
+str	1
+int	1
+wis	1
+dex	1
+con	1
+flags	0
+skills
+endskills
+
+
+class	ninja~
+short	nin~
+base	2
+enabled	1
+hp	1
+mana	1
+move	1
+thacO	20
+str	1
+int	1
+wis	1
+dex	1
+con	1
+flags	0
+skills
+endskills
+
+
+class	monk~
+short	mon~
+base	3
+enabled	1
+hp	1
+mana	1
+move	1
+thacO	20
+str	1
+int	1
+wis	1
+dex	1
+con	1
+flags	0
+skills
+endskills
+
+
+class	archer~
+short	arc~
+base	2
+enabled	1
+hp	1
+mana	1
+move	1
+thacO	20
+str	1
+int	1
+wis	1
+dex	1
+con	1
+flags	0
+skills
+endskills
+
+
+class	enchanter~
+short	enc~
+base	1
+enabled	1
+hp	1
+mana	1
+move	1
+thacO	20
+str	1
+int	1
+wis	1
+dex	1
+con	1
+flags	0
+skills
+endskills
+
+
+endfile

@@ -1,0 +1,486 @@
+#AREA	{ 5 35} Borlak The Pit and Skull~
+
+
+#ROOMS
+#30400
+The Pit~
+Turn on brief.
+~
+0 8192 10
+D2
+~
+~
+0 -1 30403
+S
+#30401
+The Pit~
+Turn on brief.
+~
+0 8192 10
+D1
+~
+~
+0 -1 30402
+D2
+~
+~
+0 -1 30404
+S
+#30402
+The Pit~
+Turn on brief.
+~
+0 8192 10
+D3
+~
+~
+0 -1 30401
+S
+#30403
+The Pit~
+Turn on brief.
+~
+0 8192 10
+D0
+~
+~
+0 -1 30400
+D1
+~
+~
+0 -1 30404
+S
+#30404
+Center of The Pit~
+Turn on brief.
+~
+0 8192 10
+D0
+~
+~
+0 -1 30401
+D1
+~
+~
+0 -1 30405
+D2
+~
+~
+0 -1 30407
+D3
+~
+~
+0 -1 30403
+S
+#30405
+The Pit~
+Turn on brief.
+~
+0 8192 10
+D2
+~
+~
+0 -1 30408
+D3
+~
+~
+0 -1 30404
+S
+#30406
+The Pit~
+Turn on brief.
+~
+0 8192 10
+D1
+~
+~
+0 -1 30407
+S
+#30407
+The Pit~
+Turn on brief.
+~
+0 8192 10
+D0
+~
+~
+0 -1 30404
+D3
+~
+~
+0 -1 30406
+S
+#30408
+The Pit~
+Turn on brief.
+~
+0 8192 10
+D0
+~
+~
+0 -1 30405
+S
+#30409
+Flaming Skull~
+Turn on brief.
+~
+0 8192 10
+D1
+~
+~
+0 -1 30410
+D2
+~
+~
+0 -1 30413
+S
+#30410
+Flaming Skull~
+Turn on brief.
+~
+0 8192 10
+D1
+~
+~
+0 -1 30411
+D3
+~
+~
+0 -1 30409
+S
+#30411
+Flaming Skull~
+Turn on brief.
+~
+0 8192 10
+D2
+~
+~
+0 -1 30414
+D3
+~
+~
+0 -1 30410
+S
+#30412
+Flaming Skull~
+Turn on brief.
+~
+0 8192 10
+D1
+~
+~
+0 -1 30413
+D2
+~
+~
+0 -1 30416
+S
+#30413
+Flaming Skull~
+Turn on brief.
+~
+0 8192 10
+D0
+~
+~
+0 -1 30409
+D2
+~
+~
+1 -1 30417
+D3
+~
+~
+0 -1 30412
+S
+#30414
+Flaming Skull~
+Turn on brief.
+~
+0 8192 10
+D0
+~
+~
+0 -1 30411
+D1
+~
+~
+0 -1 30415
+D2
+~
+~
+1 -1 30418
+S
+#30415
+Flaming Skull~
+You are standing in room #30415.
+~
+0 8192 10
+D2
+~
+~
+0 -1 30419
+D3
+~
+~
+0 -1 30414
+S
+#30416
+Flaming Skull~
+Turn on brief.
+~
+0 8192 10
+D0
+~
+~
+0 -1 30412
+D2
+~
+~
+0 -1 30420
+S
+#30417
+A Flaming Skull Eye~
+Turn on brief.
+~
+0 8192 10
+D0
+~
+~
+1 -1 30413
+S
+#30418
+A Flaming Skull Eye~
+Turn on brief.
+~
+0 8192 10
+D0
+~
+~
+1 -1 30414
+S
+#30419
+Flaming Skull~
+Turn on brief.
+~
+0 8192 10
+D0
+~
+~
+0 -1 30415
+D2
+~
+~
+0 -1 30422
+S
+#30420
+Flaming Skull~
+Turn on brief.
+~
+0 8192 10
+D0
+~
+~
+0 -1 30416
+D2
+~
+~
+0 -1 30423
+S
+#30421
+A Flaming Nasal Cavity~
+Turn on brief.
+~
+0 4|8192 10
+D2
+~
+~
+1 -1 30425
+S
+#30422
+Flaming Skull~
+Turn on brief.
+~
+0 4|8192 10
+D0
+~
+~
+0 -1 30419
+D2
+~
+~
+0 -1 30427
+S
+#30423
+Flaming Skull~
+Turn on brief.
+~
+0 4|8192 10
+D0
+~
+~
+0 -1 30420
+D2
+~
+~
+0 -1 30428
+S
+#30424
+Flaming Teeth~
+Turn on brief.
+~
+0 4|8192 10
+D1
+~
+~
+0 -1 30425
+D2
+~
+~
+0 -1 30430
+S
+#30425
+Flaming Teeth~
+Turn on brief.
+~
+0 4|8192 10
+D0
+~
+~
+1 -1 30421
+D1
+~
+~
+0 -1 30426
+D3
+~
+~
+0 -1 30424
+S
+#30426
+Flaming Teeth~
+Turn on brief.
+~
+0 4|8192 10
+D2
+~
+~
+0 -1 30431
+D3
+~
+~
+0 -1 30425
+S
+#30427
+Flaming Skull~
+Turn on brief.
+~
+0 4|8192 10
+D0
+~
+~
+0 -1 30422
+D2
+~
+~
+0 -1 30433
+S
+#30428
+Flaming Skull~
+Turn on brief.
+~
+0 4|8192 10
+D0
+~
+~
+0 -1 30423
+D1
+~
+~
+0 -1 30429
+S
+#30429
+Flaming Skull~
+Turn on brief.
+~
+0 4|8192 10
+D1
+~
+~
+0 -1 30430
+D3
+~
+~
+0 -1 30428
+S
+#30430
+Flaming Skull~
+Turn on brief.
+~
+0 4|8192 10
+D0
+~
+~
+0 -1 30424
+D3
+~
+~
+0 -1 30429
+S
+#30431
+Flaming Skull~
+Turn on brief.
+~
+0 4|8192 10
+D0
+~
+~
+0 -1 30426
+D1
+~
+~
+0 -1 30432
+S
+#30432
+Flaming Skull~
+Turn on brief.
+~
+0 4|8192 10
+D1
+~
+~
+0 -1 30433
+D3
+~
+~
+0 -1 30431
+S
+#30433
+Flaming Skull~
+Turn on brief.
+~
+0 4|8192 10
+D0
+~
+~
+0 -1 30427
+D3
+~
+~
+0 -1 30432
+S
+#0
+
+
+#RESETS
+D 1 30413 2 1			; Flaming Skull Close South
+D 1 30414 2 1			; Flaming Skull Close South
+D 1 30417 0 1			; A Flaming Skull Eye Close North
+D 1 30418 0 1			; A Flaming Skull Eye Close North
+D 1 30421 2 1			; A Flaming Nasal Cavity Close South
+D 1 30425 0 1			; Flaming Teeth Close North
+S
+
+
+#$

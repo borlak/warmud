@@ -1,0 +1,2349 @@
+#AREA	{ 0 30 } Borlak  Castle Dredd Reborn~
+
+
+#MOBILES
+#30000
+castle guard~
+A castle guard~
+A guard is here protecting the gates of Castle Dredd.
+~
+A castle guard says 'I bet you think I have some kickass weapon or something? You asshole.'
+~
+2|4 8|32 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30001
+kendallar guard~
+Kendallar~
+Kendallar is standing here with a powerful stance, guarding the King.
+~
+He looks familiar.
+~
+2|4|32 8|32|128 0 S
+3 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30002
+yendor guard~
+Yendor~
+Yendor stands here guarding the King, ready to kill.
+~
+He looks familiar.
+~
+2|4|32 8|32|128 0 S
+3 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30003
+king dredd~
+King Dredd~
+King Dredd is here, looking very honorable and royalish.
+~
+He winks at you and yells for his guards to attack.
+~
+2|4 128|65536 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30004
+andrade woman~
+Andrade~
+Andrade is here, one of the King's mistresses.
+~
+She is very beautiful.
+~
+2|4 0 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#30005
+vraal man~
+Vraal~
+Vraal is here, the King's right hand man.
+~
+He makes a lot of jokes about you.
+~
+2|4 8 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30006
+khor man~
+Khor~
+Khor is here, the King's personal Assassin.
+~
+Khor is the most well known assassin in all the land.  He has killed well over a thousand people, and has only been driven away 10% of the time.  This is one guy you dont want to mess with.
+~
+2|4|128 8|32|32768|65536 -1000 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30007
+josiah man~
+Josiah~
+Josiah is here, the King's personal accountant.
+~
+Josiah grins and notices you have some gold he can....count for you.
+~
+2|4|128 32|32768 0 S
+3 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30008
+archer~
+An archer~
+An archer is on the lookout for invaders.
+~
+He wonders what you are doing up on the rampart.
+~
+4|32 32768|524288 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30009
+cook head~
+The Head Cook~
+The Head Cook is here, tossing some salad.
+~
+He looks like a wicked cook.
+~
+2|4 0 1000 S
+4 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30010
+cook~
+A cook~
+A cook is here making a mess in the kitchen.
+~
+He looks very tired from all the cooking he has to do for the king.
+~
+2|4 0 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30011
+weaponmaster weapon master kilsa~
+Kilsa~
+Kilsa the weaponmaster is here, sharpening a sword.
+~
+She looks like quite a tough woman.
+~
+4|128 8|32|32768 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#30012
+armormaster armor master stance~
+Stance~
+Stance the armormaster is here, reparing some armor.
+~
+He looks like he could take quite a beating.
+~
+2|4 128 0 S
+3 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30013
+dantes mage~
+Dantes~
+Dantes the castle Mage is here, conjuring up demons.
+~
+He could roast you in a second.
+~
+2|4|32|128 8|32|1048576 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30014
+lesser daemon demon~
+A lesser daemon~
+A lesser Daemon is here, protecting Dantes.
+~
+It grins at you wickedly.
+~
+2|4|32 8|32|524288|1048576 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#30015
+gellig cleric~
+Gellig~
+Gellig is here showing his disciples how to heal.
+~
+Gellig looks back at you and sneers.
+~
+2|4|32|128 8|32|128 1000 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30016
+disciple cleric~
+A disciple~
+A disciple of Gellig is here, being trained.
+~
+He cant heal worth nothing.
+~
+2|4|128 0 500 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30017
+guardian dredd castle~
+The Guardian~
+The Guardian to Castle Dredd is here, looking buff.
+~
+He looks like he can take you.
+~
+2|4|32 2|8|32|128|524288 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30018
+pet cat pendil~
+Pendil~
+Andrade's pet cat, Pendil, is here, purring softly.
+~
+The cat looks rather dumb, but powerful.
+~
+2 524288 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30019
+changeling change~
+a changeling~
+A changeling is here.
+~
+It changes before your very eyes.
+~
+2|128 65536|524288 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30020
+grey wolf~
+a grey wolf~
+The grey wolf belonging to Khor is here, snarling.
+~
+It is a beautiful grey and has been in many combats with Khor.
+~
+2|4|32 8|32|32768|524288 -500 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30021
+jackie chan~
+Jackie Chan~
+Jackie Chan kicks your ass, is here.
+~
+He does a wicked combination and flips everything in the room at you, all before you blink.
+~
+2|4|32 32|128|524288 0 S
+4 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#30022
+jester court~
+The court jester~
+The court jester is here,  juggling some balls.
+~
+He throws a ball at you and misses!
+~
+4|64 0 0 S
+4 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#30000
+wicked hammer ovular~
+An ovular hammer~
+A wicked looking hammer is on the ground here.~
+~
+5 0 1|8192
+0 5 4 15
+5 15 15
+#30001
+sword blood sword bloodsword~
+The Blood Sword~
+The most magnifiscient weapon in the world is here, the Bloodsword.~
+~
+5 1|2|64|128|4096 1|8192
+0 5 5 3 
+13 100 1
+A
+19 5
+A
+18 5
+#30002
+cleaver~
+A cleaver~
+A cleaver is stuck in the wall here.~
+~
+5 0 1|8192
+0 6 3 11 
+2 10 15
+A
+18 2
+#30003
+knife~
+A knife~
+A knife is stuck in the ground here.~
+~
+5 0 1|8192|16384
+0 1 15 11 
+1 5 10
+A
+19 3
+#30004
+sword strength~
+The sword of strength~
+A sword with bulging steel is on the ground here.~
+~
+5 1|64 1|8192
+0 9 2 3 
+1 30 15
+A
+1 5
+#30005
+stiletto~
+The stiletto of agility~
+A wavy stiletto is on the ground here.~
+~
+5 2|64 1|8192
+0 9 2 11 
+6 30 15
+A
+2 5
+#30006
+bow royal~
+A royal bow~
+A bow with intricate writings is on the ground here.~
+~
+5 0 1|8192
+0 2 13 0 
+9 39 10
+A
+19 2
+#30007
+eas revenge dagger~
+A dagger named, 'Eas' Revenge'~
+A dagger inscribed with 'Eas's Revenge' is on the ground here.~
+~
+5 2 1|8192|16384
+0 5 4 11 
+2 50 10
+A
+1 1
+A
+2 1
+#30008
+black mace~
+A black mace~
+A black mace is on the ground here.~
+~
+5 64 1|8192
+0 4 4 8 
+5 25 10
+A
+24 -5
+A
+13 15
+#30009
+staff might~
+The staff of might~
+A might staff is on the ground here.~
+~
+5 0 1|8192
+0 5 5 0
+5 50 5
+#30010
+royal sword~
+A royal sword~
+A royal sword is on the ground here.~
+~
+5 0 1|8192|16384
+0 4 4 3 
+5 15 15
+A
+18 2
+A
+19 2
+#30011
+whip leather~
+A leather whip~
+A leather whip is here, kinky.~
+~
+5 64 1|8192
+0 4 5 4 
+5 29 20
+A
+24 -5
+#30012
+arrow death~
+An arrow of death~
+A deadly looking arrow is on the ground here.~
+~
+5 0 1|8192
+0 37 1 0 
+5 100 1
+A
+19 -10
+A
+18 -10
+#30013
+spirit kung fu~
+The spirit of Kung Fu~
+A spirit is on the ground here, waiting to be used.~
+~
+5 2|32|128 1|8192
+0 4 5 0 
+5 50 5
+A
+18 6
+#30014
+necromancer staff death~
+the staff of Necromancy~
+A staff with a skull is on the ground here.~
+~
+5 2|64|128 1|8192
+0 5 5 7 
+5 50 1
+A
+18 -2
+A
+19 2
+A
+1 -2
+A
+12 50
+#30015
+symbol life~
+the holy symbo of Life~
+A holy symbol is on the ground here.~
+~
+5 1|64 1|8192|16384
+0 5 5 8 
+5 50 2
+A
+18 2
+A
+19 -2
+A
+24 -4
+A
+12 25
+#30016
+fang fangs~
+Evil fangs~
+A sword rests here.~
+~
+5 2 1|8192|16384
+0 4 4 11 
+1 15 15
+A
+1 1
+#30017
+cross~
+A cross~
+A cross rests here.~
+~
+5 1 1|8192|16384
+0 4 4 7 
+1 15 15
+A
+12 15
+#30018
+helm~
+A helm of telepathy~
+A helm is here, fading in and out.~
+~
+9 1|64 1|16
+5 0 0 0 
+2 25 10
+A
+3 5
+A
+24 -2
+#30019
+shield royal cross~
+A royal cross shield~
+A shield with a royal cross is on the ground here.~
+~
+9 0 1|512
+7 0 0 0 
+5 15 15
+#30020
+shield power~
+a shield of power~
+A glowing shield is on the ground here.~
+~
+9 1|32|64|128 1|512
+10 0 0 0 
+10 30 5
+A
+18 -4
+A
+13 25
+#30021
+royal arm guards guard~
+Some royal arm guards~
+Some royal arm guards are on the ground here.~
+~
+9 0 1|256
+6 0 0 0 
+5 15 20
+#30022
+some royal leggings~
+Some royal leggings~
+Some royal leggings are on the ground here.~
+~
+9 0 1|32
+6 0 0 0 
+5 15 20
+#30023
+body armor royal~
+Some royal body armor~
+Some royal body armor is on the ground here.~
+~
+9 0 1|8
+8 0 0 0 
+10 15 20
+#30024
+royal helm~
+A royal helm~
+A royal helm is on the ground here.~
+~
+9 0 1|16
+8 0 0 0 
+5 15 20
+#30025
+royal plate boots~
+Some royal plate boots~
+Some royal plated boots are on the ground here.~
+~
+9 0 1|64
+7 0 0 0 
+4 15 20
+#30026
+royal gloves~
+Some royal gloves~
+Some royal gloves are on the ground here.~
+~
+9 0 1|128
+5 0 0 0 
+2 15 20
+#30027
+royal bracelet~
+A royal bracelet~
+A royal bracelet is on the ground here.~
+~
+9 0 1|4096
+4 0 0 0 
+2 15 20
+#30028
+cloak royal~
+A royal cloak~
+A royal cloak is on the ground here.~
+~
+9 0 1|1024
+10 0 0 0 
+5 15 20
+#30029
+royal cape~
+A royal cape~
+A royal cape is on the ground here.~
+~
+9 0 1|4
+7 0 0 0 
+6 15 20
+#30030
+royal ring~
+A royal ring~
+A royal ring is on the ground here.~
+~
+9 0 1|2
+3 0 0 0 
+1 15 20
+#30031
+full plate~
+Full plate~
+Fulle Plate is on the ground here.~
+~
+9 1|2|64|128|4096 1|8
+20 0 0 0 
+5 50 1
+A
+13 25
+A
+18 -2
+A
+19 -2
+A
+24 -2
+A
+2 -2
+A
+1 2
+#30032
+cloak volcano~
+The volcano cloak~
+A cloak pictured with a Volcano is on the ground here.~
+~
+9 2 1|1024
+-50 0 0 0 
+5 90 1
+A
+12 100
+A
+24 -5
+A
+18 -10
+A
+19 -10
+#30033
+amulet amulet~
+A diamond amulet~
+An Amulet inlaid with a giant diamond is on the ground here.~
+~
+9 1|64 1|4
+15 0 0 0 
+5 50 10
+A
+1 1
+A
+12 -50
+A
+19 -2
+#30034
+ring pope~
+The Pope's Ring~
+A Ring that the Pope lost is on the ground here.~
+~
+9 1|128|4096 1|2
+-25 0 0 0 
+1 150 1
+A
+9 100
+A
+18 4
+A
+19 4
+#30035
+leggings legging leg~
+Some black leggings~
+Some very dark leggings are on the ground here.~
+~
+9 1|2|64|128|4096 1|32
+100 0 0 0 
+5 0 25
+A
+13 -99
+#30036
+key black~
+a black key~
+A black key is on the ground here.~
+~
+18 4096 1|16384
+0 0 0 0 
+1 0 50
+A
+13 -50
+A
+12 50
+#30037
+key white~
+a white key~
+A white key is on the ground here.~
+~
+18 4096 1|16384
+0 0 0 0 
+1 0 50
+A
+18 5
+A
+19 -5
+#30038
+key sword~
+a sword-shaped key~
+A sword-shaped key is on the ground here.~
+~
+18 0 1|16384
+0 0 0 0 
+1 0 50
+#30039
+key shield~
+a shield-shaped key~
+A key shaped like a finger is on the ground here.~
+~
+18 0 1|16384
+0 0 0 0 
+1 0 50
+#30040
+gate key~
+the gate key to Dredd~
+A gate key with Dredd inscribed on it is here.~
+~
+18 128 1
+0 0 0 0 
+10 0 100
+#30041
+cat collar~
+A collar inscribed 'Pedil'~
+A collar belonging to some cat is on the ground here.~
+~
+9 4096 1|4
+6 0 0 0 
+5 12 15
+A
+18 2
+#30042
+fists fist~
+The fists of Jackie Chan~
+Some fists lie on the ground here, gross.~
+~
+9 2|128|4096 1|128
+7 0 0 0 
+5 52 5
+A
+2 2
+A
+19 3
+#30043
+belt shifting~
+A belt of shape shifting~
+A belt that is changing shapes is on the ground here.~
+~
+9 64|4096 1|2048
+10 0 0 0 
+5 15 25
+A
+5 5
+#30044
+brilliant fur grey~
+Some brilliant grey fur~
+Some fur from a wolf is on the ground here.~
+~
+9 1 1|1024
+5 0 0 0 
+5 15 15
+A
+12 15
+A
+19 -1
+A
+18 -1
+#30045
+throne~
+The throne~
+The King's throne is on the ground here.~
+~
+15 0 0
+50 0 0 0 
+999 0 100
+#30046
+sword blood sword bloodsword~
+The Blood Sword~
+The most magnifiscient weapon in the world is here, the Bloodsword.~
+~
+5 1|2|64|128|4096 1|8192|16384
+0 1 1 3 
+1 0 25
+A
+1 0
+A
+2 -5
+A
+12 -50
+A
+13 -50
+#30047
+balls ball~
+Some juggling balls~
+Some juggling balls lay strewn across the floor here.~
+~
+13 0 1|16384
+0 0 0 0 
+1 0 15
+A
+18 0
+#30048
+jester hat~
+A jester hat~
+A hat with three bells is on the ground here.~
+~
+9 0 1|16
+3 0 0 0 
+5 0 15
+A
+5 1
+A
+24 -1
+#30049
+oil barrel~
+An oil barrel~
+An oil barrel is on the ground here, awaiting some unfortunant victim below.~
+~
+17 0 0
+5 5 21 0 
+555 0 100
+#0
+
+
+#ROOMS
+#30000
+Some fields~
+Why the hell dont you have brief on?
+~
+0 0 2
+D0
+~
+~
+0 -1 30001
+S
+#30001
+Entrance to Castle Dredd ~
+Why the hell dont you have brief on?
+~
+0 8192 1
+D0
+~
+door~
+1 30040 30002
+D2
+~
+~
+0 -1 30000
+S
+#30002
+Inside Castle Dredd~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30013
+D1
+~
+~
+0 -1 30003
+D2
+~
+door~
+1 -1 30001
+D3
+~
+~
+0 -1 30008
+S
+#30003
+Hallway leading to Barracks~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30004
+D3
+~
+~
+0 -1 30002
+S
+#30004
+Entrance to Guard Barracks~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30005
+D2
+~
+~
+0 -1 30006
+D3
+~
+~
+0 -1 30003
+S
+#30005
+Barrack Equipment Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D2
+~
+~
+0 -1 30007
+D3
+~
+~
+0 -1 30004
+S
+#30006
+Barrack Quarters~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30004
+D1
+~
+~
+0 -1 30007
+S
+#30007
+Barrack Bathroom~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30005
+D3
+~
+~
+0 -1 30006
+S
+#30008
+Hallway leading to Kitchen~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30002
+D3
+~
+~
+0 -1 30009
+S
+#30009
+Entrance to Kitchen~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30008
+D2
+~
+~
+0 -1 30012
+D3
+~
+~
+0 -1 30010
+S
+#30010
+Hot Room in Kitchen~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30009
+D2
+~
+~
+0 -1 30011
+S
+#30011
+Supply Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30010
+D1
+~
+~
+0 -1 30012
+S
+#30012
+Cool Room in Kitchen~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30009
+D3
+~
+~
+0 -1 30011
+S
+#30013
+Main Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30014
+D2
+~
+~
+0 -1 30002
+S
+#30014
+Entrance to Throne Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30022
+D1
+~
+~
+0 -1 30015
+D2
+~
+~
+0 -1 30013
+D3
+~
+~
+0 -1 30018
+S
+#30015
+Southeast Throne Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30023
+D1
+~
+~
+0 -1 30016
+D3
+~
+~
+0 -1 30014
+S
+#30016
+Hallway leading to East Stairs~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30017
+D3
+~
+~
+0 -1 30015
+S
+#30017
+The East Stairs~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D3
+~
+~
+0 -1 30016
+D4
+~
+~
+0 -1 30053
+S
+#30018
+Southwest Throne Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30021
+D1
+~
+~
+0 -1 30014
+D3
+~
+~
+0 -1 30019
+S
+#30019
+Hallway leading to West Stairs~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30018
+D3
+~
+~
+0 -1 30020
+S
+#30020
+The West Stairs~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30019
+D4
+~
+~
+0 -1 30047
+S
+#30021
+West Throne Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30030
+D1
+~
+~
+0 -1 30022
+D2
+~
+~
+0 -1 30018
+S
+#30022
+Center of Throne Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30024
+D1
+~
+~
+0 -1 30023
+D2
+~
+~
+0 -1 30014
+D3
+~
+~
+0 -1 30021
+S
+#30023
+East Throne Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30025
+D2
+~
+~
+0 -1 30015
+D3
+~
+~
+0 -1 30022
+S
+#30024
+At the Throne~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30025
+D2
+~
+~
+0 -1 30022
+D3
+~
+~
+0 -1 30030
+S
+#30025
+Northeast Throne Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+door~
+1 30039 30026
+D2
+~
+~
+0 -1 30023
+D3
+~
+~
+0 -1 30024
+S
+#30026
+Entrance to the Castle's Armory~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30028
+D1
+~
+~
+0 -1 30027
+D3
+~
+door~
+1 -1 30025
+S
+#30027
+Dredd Armory~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30029
+D3
+~
+~
+0 -1 30026
+S
+#30028
+Dredd Armory~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30029
+D2
+~
+~
+0 -1 30026
+S
+#30029
+Dredd Armory~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D2
+~
+~
+0 -1 30027
+D3
+~
+~
+0 -1 30028
+S
+#30030
+Northwest Throne Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30024
+D2
+~
+~
+0 -1 30021
+D3
+~
+door~
+1 -1 30031
+S
+#30031
+Entrance to the Castle's Weaponry~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30034
+D1
+~
+door~
+1 -1 30030
+D3
+~
+~
+0 -1 30032
+S
+#30032
+Dredd Weaponry~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30033
+D1
+~
+~
+0 -1 30031
+S
+#30033
+Dredd Weaponry~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30034
+D2
+~
+~
+0 -1 30032
+S
+#30034
+Dredd Weaponry~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D2
+~
+~
+0 -1 30031
+D3
+~
+~
+0 -1 30033
+S
+#30035
+Andrade's Closet~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+door~
+1 -1 30036
+S
+#30036
+Andrade's Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30037
+D2
+~
+~
+0 -1 30042
+D3
+~
+door~
+1 -1 30035
+S
+#30037
+Northern Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30038
+D3
+~
+~
+0 -1 30036
+S
+#30038
+Northern Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30039
+D3
+~
+~
+0 -1 30037
+D4
+~
+~
+0 -1 30069
+S
+#30039
+Northern Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30040
+D3
+~
+~
+0 -1 30038
+S
+#30040
+Vraal's Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+door~
+1 -1 30041
+D2
+~
+~
+0 -1 30043
+D3
+~
+~
+0 -1 30039
+S
+#30041
+Vraal's Closet~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D3
+~
+door~
+1 -1 30040
+S
+#30042
+Western Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30036
+D2
+~
+~
+0 -1 30044
+S
+#30043
+Eastern Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30040
+D2
+~
+~
+0 -1 30046
+S
+#30044
+Western Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30042
+D2
+~
+~
+0 -1 30048
+S
+#30045
+Dredd's Majestic Mage Quarters~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D2
+~
+door~
+1 -1 30050
+S
+#30046
+Eastern Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30043
+D2
+~
+~
+0 -1 30052
+S
+#30047
+Top of Stairs~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30048
+D5
+~
+~
+0 -1 30020
+S
+#30048
+Western Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30044
+D1
+~
+~
+0 -1 30049
+D2
+~
+~
+0 -1 30054
+D3
+~
+~
+0 -1 30047
+S
+#30049
+Center Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30050
+D3
+~
+~
+0 -1 30048
+S
+#30050
+Center Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+door~
+1 30036 30045
+D1
+~
+~
+0 -1 30051
+D2
+~
+door~
+1 30037 30055
+D3
+~
+~
+0 -1 30049
+S
+#30051
+Center Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30052
+D3
+~
+~
+0 -1 30050
+S
+#30052
+Eastern Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30046
+D1
+~
+~
+0 -1 30053
+D2
+~
+~
+0 -1 30056
+D3
+~
+~
+0 -1 30051
+S
+#30053
+Top of Stairs~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D3
+~
+~
+0 -1 30052
+D5
+~
+~
+0 -1 30017
+S
+#30054
+Western Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30048
+D2
+~
+~
+0 -1 30057
+S
+#30055
+Dredd's Pious Cleric Quaters~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+door~
+1 -1 30050
+S
+#30056
+Eastern Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30052
+D2
+~
+~
+0 -1 30058
+S
+#30057
+Western Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30054
+D2
+~
+~
+0 -1 30060
+S
+#30058
+Eastern Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30056
+D2
+~
+~
+0 -1 30064
+S
+#30059
+Khor's Closet~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+door~
+1 -1 30060
+S
+#30060
+Khor's Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30057
+D1
+~
+~
+0 -1 30061
+D3
+~
+door~
+1 -1 30059
+S
+#30061
+Southern Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30062
+D3
+~
+~
+0 -1 30060
+S
+#30062
+Southern Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30063
+D3
+~
+~
+0 -1 30061
+D4
+~
+~
+0 -1 30082
+S
+#30063
+Southern Hallway~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30064
+D3
+~
+~
+0 -1 30062
+S
+#30064
+Josiah's Room~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30058
+D1
+~
+door~
+1 -1 30065
+D3
+~
+~
+0 -1 30063
+S
+#30065
+Josiah's Closet~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D3
+~
+door~
+1 -1 30064
+S
+#30066
+Northwest Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30067
+D2
+~
+~
+0 -1 30090
+S
+#30067
+North Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30068
+D3
+~
+~
+0 -1 30066
+S
+#30068
+North Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30069
+D3
+~
+~
+0 -1 30067
+S
+#30069
+North Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30070
+D3
+~
+~
+0 -1 30068
+D5
+~
+~
+0 -1 30038
+S
+#30070
+North Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30071
+D3
+~
+~
+0 -1 30069
+S
+#30071
+North Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30072
+D3
+~
+~
+0 -1 30070
+S
+#30072
+North Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30073
+D3
+~
+~
+0 -1 30071
+S
+#30073
+Northeast Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D2
+~
+~
+0 -1 30074
+D3
+~
+~
+0 -1 30072
+S
+#30074
+East Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30073
+D2
+~
+~
+0 -1 30075
+S
+#30075
+East Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30074
+D2
+~
+~
+0 -1 30076
+S
+#30076
+East Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30075
+D2
+~
+~
+0 -1 30077
+S
+#30077
+East Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30076
+D2
+~
+~
+0 -1 30078
+S
+#30078
+East Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30077
+D2
+~
+~
+0 -1 30079
+S
+#30079
+Southeast Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30078
+D3
+~
+~
+0 -1 30080
+S
+#30080
+South Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30079
+D3
+~
+~
+0 -1 30081
+S
+#30081
+South Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30080
+D3
+~
+~
+0 -1 30082
+S
+#30082
+South Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30081
+D3
+~
+~
+0 -1 30083
+D5
+~
+~
+0 -1 30062
+S
+#30083
+South Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30082
+D3
+~
+~
+0 -1 30084
+S
+#30084
+South Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D1
+~
+~
+0 -1 30083
+D3
+~
+~
+0 -1 30085
+S
+#30085
+Southwest Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30086
+D1
+~
+~
+0 -1 30084
+S
+#30086
+West Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30087
+D2
+~
+~
+0 -1 30085
+S
+#30087
+West Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30088
+D2
+~
+~
+0 -1 30086
+S
+#30088
+West Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30089
+D2
+~
+~
+0 -1 30087
+S
+#30089
+West Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30090
+D2
+~
+~
+0 -1 30088
+S
+#30090
+West Rampart~
+Why the hell dont you have brief on?
+~
+0 16384 0
+D0
+~
+~
+0 -1 30066
+D2
+~
+~
+0 -1 30089
+S
+#0
+
+
+#RESETS
+*
+M 1 30000 6 30001			a castle guard to Entrance to Castle Dredd
+E 1 30000 100 16
+E 1 30029 100 3
+E 1 30026 100 9
+E 1 30021 100 10
+E 1 30028 100 12
+E 1 30027 100 15
+E 1 30019 100 11
+*
+M 1 30000 6 30006			a castle guard to Barrack Quarters
+E 1 30030 100 2
+E 1 30022 100 7
+E 1 30025 100 8
+E 1 30010 100 16
+*
+M 1 30000 6 30031			a castle guard to Entrance to the Castle's Weaponry
+E 1 30024 100 6
+E 1 30010 100 16
+E 1 30023 100 5
+E 1 30019 100 11
+*
+*
+M 1 30000 6 30026			a castle guard to Entrance to the Castle's Armory
+E 1 30029 100 4
+E 1 30025 100 8
+E 1 30028 100 12
+E 1 30027 100 14
+E 1 30027 100 15
+E 1 30000 100 16
+*
+M 1 30001 1 30024			Bor to At the Throne
+E 1 30004 100 16
+G 1 30035 100
+G 1 30039 100
+*
+M 1 30002 1 30024			Lak to At the Throne
+E 1 30005 100 16
+G 1 30038 100
+*
+M 1 30003 1 30024			King Dredd to At the Throne
+E 1 30009 100 16
+G 1 30037 100
+*
+M 1 30004 1 30036			Andrade to Andrade's Room
+E 1 30029 100 3
+E 1 30011 100 16
+*
+M 1 30005 1 30040			Vraal to Vraal's Bedroom
+E 1 30012 100 16
+E 1 30023 100 5
+E 1 30026 100 9
+*
+M 1 30006 1 30060			Khor to Khor's Room
+E 1 30007 100 16
+E 1 30035 100 7
+E 1 30021 100 10
+E 1 30028 100 12
+E 1 30027 100 14
+E 1 30027 100 15
+G 1 30036 100
+*
+M 1 30007 1 30064			Josiah to Josiah's Room
+E 1 30013 100 16
+E 1 30029 100 3
+E 1 30029 100 4
+E 1 30028 100 12
+*
+M 1 30008 4 30066			An archer to Northwest Rampart
+E 1 30006 100 16
+*
+M 1 30008 4 30073			An archer to Northeast Rampart
+E 1 30006 100 16
+*
+M 1 30008 4 30079			An archer to Southeast Rampart
+E 1 30006 100 16
+*
+M 1 30008 4 30085			An archer to Southwest Rampart
+E 1 30006 100 16
+*
+*
+M 1 30010 2 30010			A cook to Hot Room in Kitchen
+E 1 30026 100 9
+E 1 30003 100 16
+*
+M 1 30009 1 30012			The Head Cook to Cool Room in Kitchen
+E 1 30030 100 1
+E 1 30025 100 8
+E 1 30027 100 15
+E 1 30002 100 16
+E 1 30003 100 17
+*
+M 1 30011 1 30033			Kilsa to Dredd Weaponry
+E 1 30001 100 16
+E 1 30046 100 17
+*
+M 1 30012 1 30029			Stance to Dredd Armory
+E 1 30031 100 5
+E 1 30020 100 11
+E 1 30008 100 16
+E 1 30018 100 6
+*
+M 1 30013 1 30045			Dantes to Dredd's Majestic Mage Quarters
+E 1 30032 100 12
+E 1 30014 100 16
+*
+M 1 30014 2 30045			A lesser daemon to Dredd's Majestic Mage Quarters
+E 1 30016 100 16
+*
+M 1 30015 1 30055			Gellig to Dredd's Pious Cleric Quaters
+E 1 30015 100 16
+E 1 30034 100 1
+E 1 30033 100 3
+*
+M 1 30016 2 30055			A disciple to Dredd's Pious Cleric Quaters
+E 1 30017 100 16
+*
+M 1 30017 1 30001			the Guardian to Entrance to Castle Dredd 
+G 1 30040 100
+*
+M 1 30018 1 30035			Pendil to Andrade's Closet
+E 1 30041 100 3
+*
+M 1 30019 1 30041			a changeling to Vraal's Closet
+E 1 30043 100 13
+*
+M 1 30020 1 30059			a grey wolf to Khor's Closet
+E 1 30044 100 12
+*
+M 1 30021 1 30065			Jackie Chan to Josiah's Closet
+E 1 30042 100 9
+D 1 30001 0 2			; Entrance to Castle Dredd  Lock North
+D 1 30025 1 2			; Northeast Throne Room Lock East
+D 1 30030 3 2			; Northwest Throne Room Lock West
+D 1 30050 0 2			; Center Hallway Lock North
+D 1 30050 2 2			; Center Hallway Lock South
+*
+M 1 30000 6 30001			A castle guard to Entrance to Castle Dredd 
+E 1 30030 100 1
+E 1 30029 100 4
+E 1 30023 100 5
+E 1 30024 100 6
+E 1 30025 100 8
+E 1 30019 100 11
+E 1 30027 100 15
+E 1 30000 100 16
+*
+M 1 30000 6 30006			A castle guard to Barrack Quarters
+E 1 30022 100 7
+E 1 30026 100 9
+E 1 30028 100 12
+E 1 30027 100 14
+E 1 30010 100 16
+*
+M 1 30014 2 30045			A lesser daemon to Dredd's Majestic Mage Quarters
+E 1 30016 100 16
+*
+M 1 30016 2 30055			A disciple to Dredd's Pious Cleric Quaters
+E 1 30017 100 16
+*
+M 1 30010 2 30010			A cook to Hot Room in Kitchen
+E 1 30029 100 3
+E 1 30021 100 10
+E 1 30003 100 16
+O 1 30045 100 30024			The throne to At the Throne
+*
+M 1 30022 1 30022			the court jester to Center of Throne Room
+E 1 30048 100 6
+E 1 30047 100 17
+O 1 30049 100 30076			An oil barrel to East Rampart
+O 1 30049 100 30082			An oil barrel to South Rampart
+O 1 30049 100 30069			An oil barrel to North Rampart
+O 1 30049 100 30088			An oil barrel to West Rampart
+S
+
+
+
+#$

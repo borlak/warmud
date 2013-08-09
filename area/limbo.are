@@ -1,0 +1,227 @@
+#AREA	{None } Diku    Limbo~
+
+
+
+#MOBILES
+#1
+Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+~
+1 0 1000 S
+26 1 -1 5d10+550 4d6+3
+10000 155000
+8 8 2
+#2
+borg~
+The Borg~
+A Borg is here searching for people to assimilate.
+~
+You see many wires and electronics coming out of his body.
+He has a blank look on his face and a weak looking body,
+but you have a feeling of powerlessness around him.
+~
+33554432|1 0 -1000 S
+50 1 -100 100d2+100 5d5+5
+1000 1000
+8 8 1
+#3
+undead~
+An undead~
+An undead is standing around here.
+~
+Rotting flesh is falling from it's bones.  It looks at you
+with a stare as cold as ice, nothing is in it's eyes.
+~
+1|2 0 -1000 S
+12 1 0 10d10+10 4d4+4
+1000 1000
+8 8 1
+#4
+elemental~
+An elemental~
+An elemental is standing here.
+~
+This thing has just warped in from the elemental planes, 
+however it looks quite obedient to its master.
+~
+1|2 0 0 S
+12 1 0 10d10+10 4d4+4
+1000 1000
+8 8 1
+#5
+dracolich lich dragon undead~
+A Dracolich~
+A giant roaring Dracolich is in the room here.
+~
+Oh my lord, where the hell, or IN hell did this thing
+come from?  You better get your ass running unless
+this thing belongs to you!
+~
+1 0 0 S
+12 1 0 10d10+10 4d4+4
+1000 1000
+8 8 1
+#0
+
+
+
+#OBJECTS
+#2
+coin gold~
+a gold coin~
+One miserable gold coin.~
+~
+20 0 1
+1 0 0 0
+1 0 0
+#3
+coins gold~
+%d gold coins~
+A pile of gold coins.~
+~
+20 0 1
+0 0 0 0
+1 0 0
+#10
+corpse~
+corpse of %s~
+The corpse of %s is lying here.~
+~
+23 0 1
+0 0 0 1
+100 0 0
+#11
+corpse~
+corpse of %s~
+The corpse of %s is lying here.~
+~
+24 0 0
+0 0 0 1
+100 0 0
+#12
+blood quart~
+a quart of fresh blood~
+A quart of fresh blood is lying on the ground here.~
+~
+17 0 1
+1 1 13 0
+5 1000 0
+#13
+artifact ball strange~
+a perfectly round shiny ball~
+A very strange and ancient looking object is on the ground here.~
+~
+5 0 1|8192
+0 5 5 6
+2 0 0
+#14
+quiver~
+a leather quiver with wooden arrows~
+A leather quiver is on the ground, some wooden arrows are spread out.~
+~
+27 0 1|32768
+20 0 0 0
+5 0 0
+#15
+bow long long-bow~
+an oaken long-bow~
+An oaken long-bow is on the ground here.~
+~
+5 16384 1|8192
+0 5 5 0
+5 0 0
+#16
+flag~
+a colorless flag~
+A colorless flag is on the ground here.~
+~
+12 0 1
+0 3001 3002 0
+1 0 0
+#17
+homebase~
+A Homebase~
+A homebase for someone is here.~
+~
+12 0 0
+0 0 0 0
+1000 1000 0
+#18
+skull flaming~
+a &+Rflaming&N &+Lskull&N~
+A &+Rflaming&N &+Lskull&N is on the ground here! Shit!~
+~
+8 128 1|16392
+1 0 0 0
+1 0 0
+#19
+lance~
+a horseman's lance~
+A nice long lance with black stripes is on the ground here.~
+~
+5 0 1|8192
+0 4 4 11
+3 60 20
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.
+~
+~
+19 0 1
+5 0 0 0
+1 10 10
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+~
+1 0 1
+0 0 -1 0
+1 0 0
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+~
+25 64 0
+100000 100000 0 0
+5000 10 100000
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+  You are floating in nothing.
+~
+0 8 1
+S
+#2
+Limbo~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 8 1
+S
+#0
+
+
+
+#RESETS
+M 0 1 1 2		Puff
+S
+
+#SPECIALS
+M 2 spec_borg 0 0 0 0
+O 13 spec_artifact 0 0 0 0
+O 16 spec_flag 0 0 0 0
+O 18 spec_hot_skull 0 0 0 0
+S
+
+#$

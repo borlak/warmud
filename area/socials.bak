@@ -1,0 +1,512 @@
+60
+Social	cheer~
+You cheer happily!~
+$n cheers 'YAY!!!!'.~
+You cheer for $N! "YAY!!!!".~
+$n cheers happily for $N! "Yay!!!!".~
+$n cheers happily for you! "YAY!!!!!".~
+Pitiful... cheering for yourself?~
+$n is cheering for $sself, since none of you would.~
+
+
+Social	smile~
+You smile.~
+$n smiles.~
+You smile at $N.~
+$n smiles at $N.~
+$n smiles at you.~
+You smile at yourself you egotistical bastard.~
+$n smiles at $mself, what a egomaniac.~
+
+
+Social	moo~
+You chew your cud like a bovine.~
+$n chews his cud.~
+You go 'MOOOOOOOO' at $N.~
+$n goes 'MOOOOOOOOO' at $N.~
+$n goes 'MOOOOOOOOO' at you.~
+You go 'MOOOOOOOOO' at everyone in the room.~
+$n goes 'MOOOOOOOOOO' at everyone.~
+
+
+Social	cackle~
+You throw back your head and cackle with insane glee!~
+$n throws back $s head and cackles with insane glee!~
+You cackle gleefully at $N!~
+$n cackles gleefully at $N!~
+$n cackles gleefully at you!~
+You cackle at yourself, hmmm.~
+$n cackles at $mself, $e's gone mad!~
+
+
+Social	nod~
+You nod.~
+$n nods.~
+You nod in recognition at $N.~
+$n nods in recognition at $N.~
+$n nods in recognition at you.~
+You nod in agreement with yourself.~
+$n nods in agreement with $mself.~
+
+
+Social	chuckle~
+You chuckle.~
+$n chuckles.~
+You chuckle at $N's joke.~
+$n chuckles at $N's joke.~
+$n chuckles at your joke.~
+You chuckle at yourself, such a funny person, isn't $e?~
+$n chuckles at $mself, $e must think $e's funny.~
+
+
+Social	sigh~
+You sigh.~
+$n sighs heavily.~
+You sigh at $N.~
+$n sighs at $N.~
+$n sighs at you.~
+You sigh at your actions.~
+$n sighs at their stupidness.~
+
+
+Social	afk~
+You step away from your keyboard.~
+$n will be right back.....BEER time!~
+You say 'Going afk' to $N.~
+$n says to $N, 'Going afk.'~
+$n says to you, 'Going afk.'~
+You tell yourself to go get a Beer.~
+$n says to himself, 'Go afk.'~
+
+
+Social	ponder~
+You ponder the question.~
+$n thinks about it. ~
+You think about what $N asked.~
+$n ponders the question of $N.~
+$n ponders your question.~
+You ponder yourself with great intensity.~
+$n ponders $mself with great intensity.~
+
+
+Social	shrug~
+You shrug.~
+$n shrugs.~
+You shrug at $N comment.~
+$n shrugs at $n comment.~
+%n shrugs at your comment.~
+You shrug at everyone's comments.~
+$n shrugs at everyone's comments.~
+
+
+Social	curse~
+&+RYou curse profoundly.&N~
+&+R$n curses loudly.&N~
+You curse at $N's cheating.~
+$n curses at $N, calling him a cheater.~
+$n curses at you, calling you a cheater.~
+You swear at your actions.~
+$n curses at their stupidity.~
+
+
+Social	jump~
+You jump up and down widly.~
+$n jumps up and down widly.~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+
+
+Social	grin~
+You grin evilly.~
+$n grins evilly.~
+You grin evilly at $N.~
+$n grins evilly at $N.~
+$n grins evilly at you.~
+You grin at yourself, what are you thinking?~
+$n grins at $mself, he must be getting REALLY bad thoughts.~
+
+
+Social	giggle~
+You giggle.~
+$n giggles.~
+You giggle at $N~
+$n giggles at $N~
+$n giggles at you.~
+You find yourself quiet amusing don't you?~
+$n giggles at $mself~
+
+
+Social	beat~
+(null)~
+(null)~
+You give $N the beating of his life.~
+$n gives $N the beating of his life.~
+That hurts!~
+You stare at your fist for a moment and then send it flying towards your face.~
+$n knocks himself out.~
+
+
+Social	dive~
+You dive onto the ground.~
+$n dives onto the ground.~
+You dive a $N's feet.~
+$n dives at $N's feet, attempting to tackle them.~
+$n dives at your feet.~
+You tumble trying to dive at your feet.~
+$n hurts $mself trying to dive at their feet.~
+
+
+Social	fairy~
+You start acting like a fairy.~
+$n starts acting like a fairy!~
+You poke $N in the eye with your fairy wand.~
+$n attacks $N with a fairy wand.~
+$n pokes you in the eye with his fairy wand.~
+You attempt to make fairy magic.~
+$n attempts to make fairy magic, but fails miserably.~
+
+
+Social	rofl~
+You roll on the floor, laughing hysterically.~
+$n rolls on the floor laughing.~
+You roll on the floor, laughing at $N.~
+$n rolls on the floor, laughing at $N.~
+$n rolls on the floor, laughing at you.~
+You roll on the floor, laughing at your remark.~
+$n rolls on the floor laughin at $m's remark.~
+
+
+Social	mutter~
+You mutter under your breath.~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+
+
+Social	fire~
+You scream 'FIRE!!!' while running away.~
+$n screams 'FIRE!!!', then runs away.~
+You scream 'FIRE!!!' at $N, making them run away.~
+$n screams 'FIRE!!!' at $N, causing $N to run away.~
+$n screams 'FIRE!!!' at you, and you panic.~
+You light yourself on fire.~
+$n lights $mself on fire.~
+
+
+Social	scream~
+You scream in frustration '&+RAAAARRRRRGGGGHHHH!!&N'~
+$n screams in frustration '&+RAAAARRRRRGGGGGHHHH!!&N'~
+You scream loudly at $N.~
+$n screams loud and long at $N.~
+$n screams at you. What's his problem?~
+You scream at yourself in frustration.~
+$n screams at $mself in frustration.~
+
+
+Social	slap~
+You slap at nothing.~
+$n slaps at the air.~
+You slap $N hard.~
+$n slaps $N hard. Ouch.~
+$n slaps you hard. Grrr.....~
+You slap yourself silly.~
+$n slaps himself manytimes.~
+
+
+Social	muah~
+You turn and scream 'MUAHAHAHAHA'.~
+$n screams 'MAHAHAHAHA'.~
+You scream 'MUAHAHAHAH' at $N.~
+$n scream 'MUAHAHAHAHA' at $N.~
+$n screams 'MUAHAHAHA' at you.~
+You scream 'MUAHAHAHA' at yourself.~
+$n screams 'MUAHAHAHA' at himself like a maniac.~
+
+
+Social	wet~
+You wet your pants.~
+$n wets his pants.~
+You walk over and pee on $N 's foot.~
+(null)~
+$n walks over and pee's on your foot.~
+Uh oh! Too late!!~
+$n begins to run to the bathroom but doesn't make it.~
+
+
+Social	tap~
+You tap your foot impatiently.~
+$n taps his foot impatiently.~
+You tap $N on the shoulder.~
+$n taps $N on the shoulder.~
+$n taps you on the shoulder.~
+You tap yourself on the forehead repeatedly.~
+$n taps $mself on the forehead repeatedly.~
+
+
+Social	spice~
+You start acting like a Spice Girl. Weirdo.~
+$n starts acting like a Spice Girl. Kill Him!~
+You call $N a Spice Girl.~
+$n calls $N a stupid Spice Girl.~
+$n calls you a Spice Girl. Jerk!~
+You start singing a Spice Girls song to yourself.~
+$n starts singing a Spice Girls song. Kill Him!~
+
+
+Social	whine~
+You whine like a little girl.~
+$n whines like a little girl.~
+You whine at $N's actions.~
+$n whines like a little girl at $N.~
+$n whines at you like a little girl.~
+You whine at your stupidness.~
+$n whines at his patheticness.~
+
+
+Social	laces~
+You tie your shoelaces.~
+$n ties his shoelaces.~
+You sneak up to $N and tie his shoelaces together.~
+$n sneaks up behind $N and ties their shoelaces together.~
+You try to take a step, but the ground rushes up at you. Someone tied your shoelaces together.~
+You tie your shoelaces together.~
+$n ties their own shoelaces together.~
+
+
+Social	duck~
+You scream 'DUCK!' and duck.~
+$n screams 'DUCK' while pointing at the sky.~
+You tell $N : 'DUCK'.~
+$n tell $N to 'DUCK'.~
+$n yells for you to 'DUCK'.~
+You duck.~
+$n ducks.~
+
+
+Social	clap~
+You clap in appreciation.~
+$n claps appreciately.~
+You clap at $N's actions.~
+$n claps a $N's preformance.~
+$n claps as your preformance.~
+You clap at yourself.~
+$n claps at $mself.~
+
+
+Social	plead~
+You plead for mercy.~
+$n pleads for mercy.~
+You plead with $N for mercy.~
+$n pleads with $N for mercy.~
+$n pleads with you for mercy. Fool.~
+You plead with yourself to stop.~
+$n pleads and grovels with $N for mercy.~
+
+
+Social	mutter~
+You mutter.~
+$n mutters.~
+You mutter under your breath at $N.~
+$n mutters at their actions.~
+$n mutters under his breath at you.~
+You mutter at your actions.~
+(null)~
+
+
+Social	growl~
+Grrrrr......~
+$n growls.~
+You growl at $N.~
+$n growls at $N. Better leave the room before the fight starts.~
+$n growls at you.....beat him.~
+You growl at your feet.~
+$n looks at his feet and growls.~
+
+
+Social	smack~
+You smack youself upside the head. Doh!~
+$n smacks himself upside the head. Doh!~
+You smack $N right in the face. Ouch!~
+$n smacks $N right in the face. Ouch!~
+$n smacks you right in the face. Ouch!~
+You smack youself right in the face. Stupid man stupid.~
+$n smacks himself right in the face. What a dork.~
+
+
+Social	shudder~
+You shudder.~
+$n shudders in disgust.~
+You shudder at $N's comment.~
+$n shudders at $N's comments.~
+$n shudders at your comment.~
+You shudder at your actions.~
+$n shudders at their actions.~
+
+
+Social	spoon~
+You scream 'SPOOOOOOOOOOOOOON!!' and run out of the room.~
+$n screams 'SPOOOOOOOOOOON!!' and runs out of the room.~
+You point at $N and yell out the battle cry of flatwear!~
+$n points at $N and yells out the battle cry of flatwear!~
+$n points at you and yells out the battle cry of flatwear!~
+(null)~
+(null)~
+
+
+Social	snicker~
+You snicker softly.~
+$n snickers softly.~
+You snicker with $M about your shared secret.~
+$n snickers with $N about their shared secret.~
+$n snickers with you about your shared secret.~
+You snicker to yourself... hrm.~
+$n snickers to himself.  $e must be having evil thoughts.~
+
+
+Social	laugh~
+You laugh.~
+$n laughs.~
+You laugh at $M.~
+$n laughs at $N.~
+$n laughs at you.  Hrmph.~
+Your laughing at yourself again...~
+$n is laughing at $mself again...~
+
+
+Social	roll~
+You roll your eyes.~
+$n rolls $s eyes, disgusted.~
+You roll your eyes at $M.~
+$n rolls $s eyes at $N.~
+$n rolls $s eyes at you, what's $s problem?~
+You roll your eyes at yourself, until they pop out.~
+$n rolls $s eyes at $mself, until they pop out.~
+
+
+Social	nog~
+You nog appropriately.~
+$n nogs appropriately.~
+You nog at $N.~
+$n nogs at $N.~
+$n nogs at you.~
+You nog at yourself, fhat the wuck?~
+$n nogs at $mself, fhat the wuck is $e thinking?~
+
+
+Social	boggle~
+You boggle at the idea.~
+$n is boggled at the very idea.~
+You are boggled at the thought of $M.~
+$n is boggled at $N.~
+$n boggles at you.~
+You boggle at your own existance.~
+$n is boggled at $s own existance.~
+
+
+Social	pat~
+(null)~
+(null)~
+You pat $M on the head.~
+$n pats $N on the head.~
+$n pats you on the head.~
+You pat yourself on the back.~
+$n pats $mself on the back.~
+
+
+Social	bow~
+You bow.~
+$n bows deeply.~
+You bow towards $N.~
+$n bows at $N.~
+$n bows at you.~
+You attempt to bow at yourself. It doesn't work.~
+$n tries to bow at $mself, but it doesn't work.~
+
+
+Social	wiggle~
+You wiggle your bottom.~
+$n wiggles $s bottom.~
+You wiggle your bottom at $M.~
+$n wiggles $s bottom at $N.~
+$n wiggles $s bottom at you.  Kinky.~
+You wiggle your bottom at yourself?~
+$n performs the impossible feat of wiggling $s bottom at $mself.~
+
+
+Social	poke~
+You poke at the air vaguely.~
+$n pokes at the air vaguely.~
+You poke $M in the ribs.~
+$n pokes $N in the ribs.~
+$n pokes you in the ribs.~
+You poke your fingers into your eyes until they drip blood.~
+$n pokes $s fingers into $s eyes until they drip blood.~
+
+
+Social	tickle~
+Who did you want to tickle?~
+(null)~
+You tickle $N mercilessly.~
+$n tickles $N mercilessly.~
+$n tickles you - hee hee.~
+You tickle yourself - hee hee haa haa.~
+$n tickles $mself, $e must need attention.~
+
+
+Social	moan~
+You moan loudly.~
+$n moans loudly.~
+You moan at the mere thought of $M.~
+$n moans at $N.~
+$n moans at the thought of you.~
+You moan at yourself.~
+$n moans at $mself.  Hrm, I would too.~
+
+
+Social	woo~
+You go 'Woo, woo!'.~
+$n goes 'Woo, woo!'.~
+You go 'Woo, woo!' at $M.~
+$n goes 'Woo, woo!' at $N.~
+$n goes 'Woo, woo!' at you!~
+You mutter 'woo' to yourself.~
+$n mutters 'woo' to $mself.~
+
+
+Social	sniff~
+You sniff sadly.~
+$n sniffs sadly.~
+You sniff sadly at the way $E is treating you.~
+$n sniffs sadly at the way $N is treating $m.~
+$n sniffs sadly at the way you are treating $m.~
+You sniff sadly at your lost opportunities.~
+$n sniffs sadly at $s lost opportunities.~
+
+
+Social	flex~
+You flex your bulging muscles.~
+$n flexes $s bulging muscles.~
+You flex for $M - bet $E's jealous.~
+$n flexes for $N, oOoOoOoO!~
+$n flexes for you, hrmph.~
+You flex and feel your muscles, not bad.~
+$n flexes and feels $s own muscles - $e must think $es hot.~
+
+
+Social	gack~
+You gack in dismay.~
+$n gacks in dismay.~
+You gack in dismay at $N.~
+$n gacks at $N.~
+$n gacks at you. ??????~
+You gack at yourself.~
+$n gacks at $mself.~
+
+
+Endfile
